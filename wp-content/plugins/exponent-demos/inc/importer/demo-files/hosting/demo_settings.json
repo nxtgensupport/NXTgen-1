@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Hosting",
+	"blog_page_title": "Blog - Hosting",
+	"content_plugins": {
+		"tatsu": "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Hosting","14":"Footer Links - Hosting","15":"Support Links - Hosting"}
+}

@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-04 10:57+0530\n"
+"PO-Revision-Date: 2019-10-04 10:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-post-types/PostType.php:57
+msgid "Remove current image"
+msgstr ""
+
+#: custom-post-types/PostType.php:58
+msgid "Remove current file"
+msgstr ""
+
+#: custom-post-types/PostType.php:177
+msgid "Use of a reserved term"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:80
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:81
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:82
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:83
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:84
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:85
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:86
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: custom-post-types/post_type.class.php:87
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:91
+msgid "Search "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:92
+msgid "All "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:93
+msgid "Parent "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:94
+msgid "Parent :"
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:95
+msgid "Edit "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:96
+msgid "Update "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:97
+msgid "Add New "
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:98
+msgid "New Name"
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:159
+msgid "Date"
+msgstr ""
+
+#: custom-post-types/taxonomy.class.php:212
+#, php-format
+msgid "Show All %s"
+msgstr ""
+
+#: modules/portfolio-details.php:32
+msgid "Client"
+msgstr ""
+
+#: modules/portfolio-details.php:36 portfolio-meta.php:94
+msgid "Project Date"
+msgstr ""
+
+#: modules/portfolio-details.php:41
+msgid "Category"
+msgstr ""
+
+#: modules/portfolio-details.php:46
+msgid "Share This"
+msgstr ""
+
+#: modules/portfolio-details.php:55
+msgid "View Project"
+msgstr ""
+
+#: modules/portfolio-details.php:71 portfolio-meta.php:20 portfolio-meta.php:78
+msgid "Portfolio Details"
+msgstr ""
+
+#: modules/portfolio-details.php:83 modules/portfolio-details.php:104
+#: modules/tatsu-module-option.php:46
+msgid "Style"
+msgstr ""
+
+#: modules/portfolio-details.php:92 modules/tatsu-module-option.php:94
+msgid "Advanced"
+msgstr ""
+
+#: modules/portfolio-details.php:117
+msgid "Alignment"
+msgstr ""
+
+#: modules/tatsu-module-option.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: modules/tatsu-module-option.php:34
+msgid "Content"
+msgstr ""
+
+#: modules/tatsu-module-option.php:54
+msgid "Layout"
+msgstr ""
+
+#: modules/tatsu-module-option.php:66
+msgid "Loading"
+msgstr ""
+
+#: modules/tatsu-module-option.php:75
+msgid "Hover Style & Colors"
+msgstr ""
+
+#: modules/tatsu-module-option.php:106
+msgid "Number of Columns"
+msgstr ""
+
+#: modules/tatsu-module-option.php:119
+msgid "2 Column Grid in Mobile"
+msgstr ""
+
+#: modules/tatsu-module-option.php:127
+msgid "Gutter Style"
+msgstr ""
+
+#: modules/tatsu-module-option.php:139
+msgid "Gutter Width"
+msgstr ""
+
+#: modules/tatsu-module-option.php:183
+msgid "Preserve Image Aspect Ratio"
+msgstr ""
+
+#: modules/tatsu-module-option.php:190
+msgid "Filterable Portfolio"
+msgstr ""
+
+#: modules/tatsu-module-option.php:198
+msgid "Filter Alignment"
+msgstr ""
+
+#: modules/tatsu-module-option.php:212
+msgid "Filter To Use"
+msgstr ""
+
+#: modules/tatsu-module-option.php:223
+msgid "Portfolio Categories"
+msgstr ""
+
+#: modules/tatsu-module-option.php:230
+msgid "Portfolio Tags"
+msgstr ""
+
+#: modules/tatsu-module-option.php:237
+msgid "Lazy Load"
+msgstr ""
+
+#: modules/tatsu-module-option.php:244
+msgid "Reveal items only on scroll"
+msgstr ""
+
+#: modules/tatsu-module-option.php:251
+msgid "Grid Placeholder Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:264
+msgid "Number of Items"
+msgstr ""
+
+#: modules/tatsu-module-option.php:271
+msgid "Image Load Animation"
+msgstr ""
+
+#: modules/tatsu-module-option.php:287
+msgid "Hover Styles"
+msgstr ""
+
+#: modules/tatsu-module-option.php:305
+msgid "Thumbnail Overlay Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:331
+msgid "Title Area Alignment"
+msgstr ""
+
+#: modules/tatsu-module-option.php:346
+msgid "Enable Box Shadow"
+msgstr ""
+
+#: modules/tatsu-module-option.php:356
+msgid "Title Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:369
+msgid "Categories Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:382
+msgid "Learn More Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:398
+msgid "Learn More Hover Color"
+msgstr ""
+
+#: modules/tatsu-module-option.php:414
+msgid "Hide Categories ?"
+msgstr ""
+
+#: plugin-update-checker/github-checker.php:119
+msgid "There is no changelog available."
+msgstr ""
+
+#: plugin-update-checker/plugin-update-checker.php:773
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/plugin-update-checker.php:817
+msgid "This plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/plugin-update-checker.php:819
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: plugin-update-checker/plugin-update-checker.php:821
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: portfolio-meta.php:16
+msgid "Single Portfolio Settings"
+msgstr ""
+
+#: portfolio-meta.php:24 portfolio-meta.php:112
+msgid "Portfolio Grid - Thumbnail Settings"
+msgstr ""
+
+#: portfolio-meta.php:28
+msgid "Entry Header Settings"
+msgstr ""
+
+#: portfolio-meta.php:43
+msgid "Portfolio Style"
+msgstr ""
+
+#: portfolio-meta.php:51
+msgid "Portfolio Single Page Style"
+msgstr ""
+
+#: portfolio-meta.php:68
+msgid "Portfolio Images"
+msgstr ""
+
+#: portfolio-meta.php:86
+msgid "Client Name"
+msgstr ""
+
+#: portfolio-meta.php:102
+msgid "Project URL"
+msgstr ""
+
+#: portfolio-meta.php:120
+msgid "Open Thumbnail in New tab"
+msgstr ""
+
+#: portfolio-meta.php:127
+msgid "Link Thumbnail To"
+msgstr ""
+
+#: portfolio-meta.php:139
+msgid "External URL"
+msgstr ""
+
+#: portfolio-meta.php:147
+msgid "Double Width"
+msgstr ""
+
+#: portfolio-meta.php:154
+msgid "Double Height"
+msgstr ""
+
+#: portfolio-meta.php:161
+msgid "Overlay Color"
+msgstr ""
+
+#: portfolio-meta.php:170
+msgid "Portfolio Title Color"
+msgstr ""
+
+#: portfolio-meta.php:179
+msgid "Portfolio Categories Color"
+msgstr ""
+
+#: portfolio-meta.php:188
+msgid "Enable Page Title"
+msgstr ""
+
+#: template-parts/before-loop.php:79
+msgid "All"
+msgstr ""
+
+#: template-parts/overlay-style5.php:53
+msgid "Learn More"
+msgstr ""
+
+#: typehub-config.php:7
+msgid "Title on Portfolio Grid"
+msgstr ""
+
+#: typehub-config.php:21
+msgid "Meta on Portfolio Grid"
+msgstr ""
+
+#: typehub-config.php:33
+msgid "Portfolio Details Module - Title"
+msgstr ""
+
+#: typehub-config.php:47
+msgid "Portfolio Details Module - Content"
+msgstr ""
+
+#: typehub-config.php:61
+msgid "Portfolio Filters"
+msgstr ""

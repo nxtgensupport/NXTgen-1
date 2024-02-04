@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – Movers and Packers",
+	"blog_page_title": "",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"2":"Exponent - Movers & Packers Menu","3":"Exponent- Our Services","4":"Quick Link"}
+}

@@ -1,0 +1,17 @@
+#product-dropdown{
+    margin-left: 10px;
+}
+.remove-combo{
+    color: #B32D2E; 
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.combo-button-custom{
+    margin: 0px 0px 15px 10px !important;
+    padding-bottom: 7px !important ;
+}
+.save-custom-combo{
+    margin: 20px 0px 10px 470px !important;
+    padding: 5px ;
+}

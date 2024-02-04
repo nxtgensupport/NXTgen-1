@@ -1,0 +1,2212 @@
+# Copyright (C) 2023 Brand Exponents
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Exponent 1.3.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/exponent\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-06T10:13:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: exponent\n"
+
+#. Theme Name of the theme
+#: lib/start-page/ExponentAdminMenu.php:16
+#: lib/start-page/ExponentAdminMenu.php:17
+msgid "Exponent"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://exponentwptheme.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "A modern business theme, that lets you build stunning high performance websites using a fully visual interface."
+msgstr ""
+
+#. Author of the theme
+msgid "Brand Exponents"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.brandexponents.com/"
+msgstr ""
+
+#: 404.php:15
+msgid "404 PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:19
+msgctxt "number of comments"
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:356
+msgid "Maintenance Mode is <strong>turned on</strong>. Please don't forget to <a href=\""
+msgstr ""
+
+#: functions.php:382
+msgid "Please update now"
+msgstr ""
+
+#: functions.php:386
+msgid "Please provide valid Exponent theme purchase code to"
+msgstr ""
+
+#: functions.php:387
+msgid "allow automatic updates"
+msgstr ""
+
+#: functions.php:393
+msgid "is available"
+msgstr ""
+
+#: functions.php:394
+msgid "Current version is"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:6
+msgid "Single Page Overrides"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:12
+msgid "Enable Page Title Override"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:18
+msgid "Enable Page Title"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:27
+#: inc/admin/options/config/global.php:269
+msgid "Other Settings"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:32
+msgid "Enable Sticky Sections"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:36
+msgid "Works only if the page is built with Tatsu"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:39
+msgid "Scroll Type"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:53
+#: inc/admin/options/config/blog.php:806
+#: inc/admin/options/config/blog.php:821
+msgid "Enable Overlay"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:75
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/pages.php:87
+#: inc/admin/options/config/blog.php:121
+#: inc/admin/options/config/shop.php:62
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:13
+msgid "Enable Double Width"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:19
+msgid "Enable Double Height"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:32
+msgid "Box shadow color"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:46
+msgid "Featured Post?"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:57
+msgid "Overrides the single post options from customizer"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:60
+msgid "Enable Single Post Override"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:66
+msgid "Add Metas on Featured Image"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:77
+msgid "Thumb Height"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:82
+msgid "Value entered are in vh units"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:85
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:92
+msgid "Related Posts Cols"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:102
+msgid "Video Post Format Options"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:106
+msgid "Add Your Video Embed Url"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:115
+msgid "Gallery Post Format Options"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:119
+msgid "Gallery Post Format Images"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:128
+msgid "Audio Post Format Options"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:132
+msgid "Audio Link"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:141
+msgid "Quote Post Format Options"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:145
+msgid "Quote"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:151
+msgid "Quote Author"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:157
+#: inc/admin/metas/rwmb-metas/posts.php:182
+msgid "Post Color"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:163
+#: inc/admin/metas/rwmb-metas/posts.php:188
+msgid "Post Bg Color"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:172
+msgid "Link Post Format Options"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/posts.php:176
+msgid "Link"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/products.php:6
+msgid "Single Product Overrides"
+msgstr ""
+
+#: inc/admin/metas/rwmb-metas/products.php:12
+msgid "Product Gallery Zoom"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:5
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:10
+msgid "Post Archive"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:14
+msgid "Individual Post"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:22
+#: inc/integrations/tatsu.php:81
+#: inc/integrations/tatsu.php:271
+msgid "Style"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:26
+#: inc/admin/options/config/portfolio.php:149
+msgid "Style 1"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:27
+#: inc/admin/options/config/portfolio.php:150
+msgid "Style 2"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:28
+#: inc/admin/options/config/portfolio.php:151
+msgid "Style 3"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:29
+#: inc/admin/options/config/portfolio.php:152
+msgid "Style 4"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:30
+msgid "Style 5"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:31
+msgid "Style 6"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:32
+msgid "Style 7"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:40
+msgid "Blog Title Tag"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:44
+msgid "h1"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:45
+msgid "h2"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:46
+msgid "h3"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:54
+#: inc/admin/options/config/blog.php:875
+msgid "Preserve Aspect Ratio of Featured Images ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:89
+#: inc/admin/options/config/blog.php:919
+msgid "Show Sidebar ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:97
+#: inc/admin/options/config/blog.php:927
+#: inc/admin/options/config/shop.php:38
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:101
+#: inc/admin/options/config/blog.php:158
+#: inc/admin/options/config/blog.php:171
+#: inc/admin/options/config/blog.php:909
+#: inc/admin/options/config/blog.php:931
+#: inc/admin/options/config/blog.php:1090
+#: inc/admin/options/config/shop.php:43
+#: inc/admin/options/config/shop.php:84
+msgid "Right"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:102
+#: inc/admin/options/config/blog.php:156
+#: inc/admin/options/config/blog.php:169
+#: inc/admin/options/config/blog.php:907
+#: inc/admin/options/config/blog.php:932
+#: inc/admin/options/config/blog.php:1088
+#: inc/admin/options/config/shop.php:42
+#: inc/admin/options/config/shop.php:82
+msgid "Left"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:137
+msgid "Sticky Sidebar ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:152
+#: inc/admin/options/config/blog.php:1084
+msgid "Alignment"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:157
+#: inc/admin/options/config/blog.php:170
+#: inc/admin/options/config/blog.php:908
+#: inc/admin/options/config/blog.php:1089
+#: inc/admin/options/config/shop.php:83
+msgid "Center"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:165
+#: inc/admin/options/config/shop.php:78
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:178
+msgid "Custom Padding for Content Box ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:185
+msgid "Content Box - Padding"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:187
+#: inc/admin/options/config/blog.php:286
+msgid "Values in px"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:204
+msgid "Content Box - Background"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:212
+msgid "Image - Shadow"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:216
+#: inc/admin/options/config/blog.php:249
+#: inc/admin/options/config/global.php:198
+#: inc/admin/options/config/portfolio.php:138
+msgid "None"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:217
+#: inc/admin/options/config/blog.php:250
+msgid "Light"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:218
+#: inc/admin/options/config/blog.php:251
+#: inc/admin/options/config/shop.php:206
+msgid "Medium"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:219
+#: inc/admin/options/config/blog.php:252
+msgid "Dark"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:245
+msgid "Content Box - Shadow"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:283
+msgid "Image - Border Radius"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:297
+#: inc/admin/options/config/shop.php:245
+msgid "Meta Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:304
+#: inc/admin/options/config/blog.php:961
+#: inc/admin/options/config/blog.php:1154
+msgid "Primary Meta"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:308
+#: inc/admin/options/config/blog.php:321
+#: inc/admin/options/config/blog.php:334
+#: inc/admin/options/config/blog.php:965
+#: inc/admin/options/config/blog.php:978
+#: inc/admin/options/config/blog.php:991
+#: inc/admin/options/config/blog.php:1158
+#: inc/admin/options/config/blog.php:1178
+#: inc/admin/options/config/blog.php:1198
+#: inc/integrations/tatsu.php:306
+msgid "Categories"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:309
+#: inc/admin/options/config/blog.php:322
+#: inc/admin/options/config/blog.php:335
+#: inc/admin/options/config/blog.php:966
+#: inc/admin/options/config/blog.php:979
+#: inc/admin/options/config/blog.php:992
+#: inc/admin/options/config/blog.php:1159
+#: inc/admin/options/config/blog.php:1179
+#: inc/admin/options/config/blog.php:1199
+msgid "Author"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:310
+#: inc/admin/options/config/blog.php:323
+#: inc/admin/options/config/blog.php:336
+#: inc/admin/options/config/blog.php:967
+#: inc/admin/options/config/blog.php:980
+#: inc/admin/options/config/blog.php:993
+#: inc/admin/options/config/blog.php:1160
+#: inc/admin/options/config/blog.php:1180
+#: inc/admin/options/config/blog.php:1200
+msgid "Date"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:317
+#: inc/admin/options/config/blog.php:974
+#: inc/admin/options/config/blog.php:1174
+msgid "Secondary Meta"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:330
+#: inc/admin/options/config/blog.php:987
+#: inc/admin/options/config/blog.php:1194
+msgid "Tertiary Meta"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:343
+#: inc/admin/options/config/blog.php:1000
+#: inc/admin/options/config/blog.php:1214
+msgid "Show Author Profile Photo ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:351
+#: inc/admin/options/config/blog.php:1008
+#: inc/admin/options/config/blog.php:1229
+msgid "Show Date Icon ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:359
+#: inc/admin/options/config/blog.php:1016
+msgid "Use Label Style for Category Meta ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:367
+msgid "Hide Content ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:375
+msgid "Read More Style"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:379
+msgid "Underlined"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:380
+msgid "Dotted"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:387
+msgid "Grid Style Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:406
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:426
+#: inc/admin/options/config/blog.php:468
+#: inc/admin/options/config/blog.php:510
+#: inc/admin/options/config/blog.php:552
+#: inc/admin/options/config/blog.php:595
+#: inc/admin/options/config/blog.php:632
+#: inc/admin/options/config/blog.php:669
+msgid "Posts per Row"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:707
+#: inc/admin/options/config/blog.php:1139
+msgid "Spacing Between Posts"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:727
+msgid "Blog Aspect Ratio"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:730
+msgid "Applies for Metro Grid - Style 3 and 7"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:753
+msgid "Author Page Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:760
+msgid "Show Hero Header ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:768
+msgid "Header Height"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:771
+msgid "Value entered are in viewport units."
+msgstr ""
+
+#: inc/admin/options/config/blog.php:784
+msgid "Header Background"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:840
+msgid "Show Single Blog Title ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:849
+msgid "Hero Header"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:850
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:852
+msgid "Single Post Title Style"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:860
+msgid "Lazy Load Hero Image"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:890
+msgid "Hero Header Height"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:893
+msgid "Values entered are in vh units"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:911
+msgid "Title Horizontal Alignment"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:946
+msgid "Make Sidebar Sticky"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1024
+msgid "Post Navigation Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1031
+msgid "Float Navigation bar"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1032
+msgid "Work only when Single Posts Navigation is enabled"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1047
+msgid "Show Social Share buttons ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1055
+msgid "Related Posts Settings"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1062
+msgid "Show Related Posts ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1070
+msgid "Aspect Ratio"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1104
+msgid "Use Full Width for Related Posts ?"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1119
+msgid "Posts Per Row"
+msgstr ""
+
+#: inc/admin/options/config/blog.php:1244
+msgid "Use Label Style for Category meta"
+msgstr ""
+
+#: inc/admin/options/config/global.php:4
+msgid "Global Site Settings"
+msgstr ""
+
+#: inc/admin/options/config/global.php:10
+msgid "Body Background"
+msgstr ""
+
+#: inc/admin/options/config/global.php:20
+msgid "Header and Footer"
+msgstr ""
+
+#: inc/admin/options/config/global.php:27
+msgid "Show Header"
+msgstr ""
+
+#: inc/admin/options/config/global.php:35
+msgid "Show Footer"
+msgstr ""
+
+#: inc/admin/options/config/global.php:43
+msgid "Footer Content"
+msgstr ""
+
+#: inc/admin/options/config/global.php:51
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: inc/admin/options/config/global.php:59
+msgid "Page Title"
+msgstr ""
+
+#: inc/admin/options/config/global.php:66
+msgid "Show Page Title in"
+msgstr ""
+
+#: inc/admin/options/config/global.php:80
+msgid "Title Top & Bottom Padding"
+msgstr ""
+
+#: inc/admin/options/config/global.php:82
+msgid "Values entered are in pixels (px)"
+msgstr ""
+
+#: inc/admin/options/config/global.php:89
+msgid "Page Title - Background"
+msgstr ""
+
+#: inc/admin/options/config/global.php:100
+#: inc/admin/options/config/portfolio.php:170
+msgid "Title Color"
+msgstr ""
+
+#: inc/admin/options/config/global.php:112
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/admin/options/config/global.php:124
+msgid "Navigation bar"
+msgstr ""
+
+#: inc/admin/options/config/global.php:131
+msgid "Show Navigation Bar in"
+msgstr ""
+
+#: inc/admin/options/config/global.php:143
+msgid "Navigation Bar Padding"
+msgstr ""
+
+#: inc/admin/options/config/global.php:145
+msgid "Top & Bottom in pixels (px)"
+msgstr ""
+
+#: inc/admin/options/config/global.php:152
+msgid "Forms and Buttons"
+msgstr ""
+
+#: inc/admin/options/config/global.php:159
+msgid "Form Style"
+msgstr ""
+
+#: inc/admin/options/config/global.php:163
+msgid "Solid"
+msgstr ""
+
+#: inc/admin/options/config/global.php:164
+msgid "Line"
+msgstr ""
+
+#: inc/admin/options/config/global.php:165
+msgid "Rounded - Inner Shadow"
+msgstr ""
+
+#: inc/admin/options/config/global.php:166
+#: inc/admin/options/config/global.php:178
+msgid "Pill"
+msgstr ""
+
+#: inc/admin/options/config/global.php:173
+msgid "Button Style"
+msgstr ""
+
+#: inc/admin/options/config/global.php:177
+msgid "Rounded"
+msgstr ""
+
+#: inc/admin/options/config/global.php:179
+msgid "Rounded Full Width"
+msgstr ""
+
+#: inc/admin/options/config/global.php:180
+msgid "Pill - Full Width"
+msgstr ""
+
+#: inc/admin/options/config/global.php:187
+msgid "Performance"
+msgstr ""
+
+#: inc/admin/options/config/global.php:194
+msgid "Show Page Loader"
+msgstr ""
+
+#: inc/admin/options/config/global.php:199
+msgid "Spin"
+msgstr ""
+
+#: inc/admin/options/config/global.php:200
+msgid "Ring"
+msgstr ""
+
+#: inc/admin/options/config/global.php:201
+msgid "Ellipsis"
+msgstr ""
+
+#: inc/admin/options/config/global.php:202
+msgid "Ripple"
+msgstr ""
+
+#: inc/admin/options/config/global.php:209
+#: inc/admin/options/config/portfolio.php:91
+msgid "Lazy Load Images"
+msgstr ""
+
+#: inc/admin/options/config/global.php:217
+msgid "Minify CSS and JS"
+msgstr ""
+
+#: inc/admin/options/config/global.php:225
+msgid "Cache Dynamic Css "
+msgstr ""
+
+#: inc/admin/options/config/global.php:234
+msgid "CDN URL"
+msgstr ""
+
+#: inc/admin/options/config/global.php:236
+msgid "Enter the CDN URL without trailing slash. ( to load async JS files from a CDN )"
+msgstr ""
+
+#: inc/admin/options/config/global.php:244
+#: inc/admin/options/config/global.php:251
+msgid "Maintenance Mode"
+msgstr ""
+
+#: inc/admin/options/config/global.php:252
+msgid "For users, not logged into the site"
+msgstr ""
+
+#: inc/admin/options/config/global.php:260
+msgid "Page for Maintenance Mode"
+msgstr ""
+
+#: inc/admin/options/config/global.php:276
+msgid "Gallery Aspect Ratio"
+msgstr ""
+
+#: inc/admin/options/config/global.php:290
+msgid "Instagram Access Token"
+msgstr ""
+
+#: inc/admin/options/config/global.php:292
+msgid "Enter the Instagram Acces Key"
+msgstr ""
+
+#: inc/admin/options/config/global.php:299
+msgid "Show Back to top Button"
+msgstr ""
+
+#: inc/admin/options/config/global.php:307
+msgid "Custom Sidebars"
+msgstr ""
+
+#: inc/admin/options/config/global.php:312
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/admin/options/config/global.php:315
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/options/config/global.php:321
+msgid "Sidebar Name"
+msgstr ""
+
+#: inc/admin/options/config/global.php:330
+msgid "Show Comments on Pages"
+msgstr ""
+
+#: inc/admin/options/config/global.php:339
+msgid "Additional JS"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:4
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:10
+msgid "Portfolio Slug"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:18
+msgid "Portfolio Home URL"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:26
+msgid "Portfolio Aspect Ratio"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:40
+msgid "Portfolio Archive Settings"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:47
+msgid "No. of Columns (Items Per Row )"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:51
+msgid "One"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:52
+msgid "Two"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:53
+msgid "Three"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:54
+msgid "Four"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:55
+msgid "Five"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:62
+msgid "Spacing on Either Sides"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:66
+msgid "With Spacing"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:67
+msgid "Without Spacing"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:74
+msgid "Gutter Width"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:76
+msgid "Values entered are in pixels"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:83
+msgid "Masonry Layout"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:99
+msgid "Reveal Items only On Scroll"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:107
+msgid "Image Placehoder Background"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:108
+msgid "during lazy load"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:119
+msgid "Number of Items"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:120
+msgid "Enter -1 to load all items"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:128
+msgid "Image Load Animation"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:132
+msgid "Slide Left"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:133
+msgid "Slide Right"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:134
+msgid "Slide Top"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:135
+msgid "Slide Bottom"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:136
+msgid "Scale"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:137
+msgid "Fade In"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:145
+msgid "Hover Style"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:159
+msgid "Thumb Overlay Color"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:181
+msgid "Category Color"
+msgstr ""
+
+#: inc/admin/options/config/portfolio.php:192
+msgid "Hide Categories ?"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:10
+msgid "Shop Page"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:17
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:30
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:91
+#: inc/admin/options/config/shop.php:116
+#: inc/admin/options/config/shop.php:141
+#: inc/admin/options/config/shop.php:166
+msgid "Products per Row"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:191
+msgid "Enable 2 column layout in mobile"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:200
+msgid "Spacing Between Products"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:204
+msgid "Tiny"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:205
+msgid "Small"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:207
+msgid "Large"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:214
+msgid "Shop Title"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:221
+#: inc/admin/options/config/shop.php:345
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:229
+msgid "Show Title"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:237
+msgid "Show Filters"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:252
+msgid "Show secondary image on Hover"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:260
+#: woocommerce/exponent-woo-functions.php:339
+msgid "Quick View"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:268
+msgid "Show Category Meta"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:276
+msgid "Show Rating"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:284
+msgid "Show Price"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:293
+msgid "Enable Add to Wishlist"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:302
+msgid "Add to cart"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:309
+msgid "Enable Add to cart"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:317
+msgid "Add to Cart Style"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:321
+msgid "Button"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:322
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:329
+msgid "Show Add to Cart only on Hover"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:338
+msgid "Product Page"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:353
+msgid "Show SKU and Meta data (category & tags )"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:361
+msgid "Zoom Product image on hover"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:362
+msgid "Works only with default single product template"
+msgstr ""
+
+#: inc/admin/options/config/shop.php:371
+msgid "No of Related Products per Page"
+msgstr ""
+
+#: inc/helpers/helpers.php:61
+msgid "Set the Main Menu"
+msgstr ""
+
+#: inc/helpers/helpers.php:217
+#: inc/helpers/helpers.php:226
+msgid "Search"
+msgstr ""
+
+#: inc/helpers/helpers.php:270
+msgid "Edit"
+msgstr ""
+
+#: inc/helpers/helpers.php:293
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/helpers/helpers.php:301
+msgid "Reply"
+msgstr ""
+
+#: inc/helpers/helpers.php:346
+#: inc/helpers/helpers.php:368
+msgid "Read More"
+msgstr ""
+
+#: inc/helpers/helpers.php:385
+#: inc/helpers/helpers.php:392
+msgid "Name *"
+msgstr ""
+
+#: inc/helpers/helpers.php:386
+#: inc/helpers/helpers.php:393
+msgid "Email *"
+msgstr ""
+
+#: inc/helpers/helpers.php:387
+#: inc/helpers/helpers.php:394
+msgid "Website"
+msgstr ""
+
+#: inc/helpers/helpers.php:389
+#: inc/helpers/helpers.php:396
+msgid "Comment"
+msgstr ""
+
+#: inc/helpers/helpers.php:398
+#: lib/admin-tpl/start-page.php:117
+msgid "Submit"
+msgstr ""
+
+#: inc/helpers/helpers.php:598
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/helpers/helpers.php:604
+#: inc/helpers/helpers.php:608
+msgid "Password:"
+msgstr ""
+
+#: inc/helpers/helpers.php:611
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:277
+msgid "Home"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:309
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:311
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:313
+msgid "Blog Archive"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:336
+#: template-parts/partials/title.php:25
+msgid "Portfolio Archives"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:1064
+msgid "Next >"
+msgstr ""
+
+#: inc/helpers/theme-helpers.php:1065
+msgid "< Prev"
+msgstr ""
+
+#: inc/integrations/be-gdpr.php:16
+msgid "Consent to display content from YouTube."
+msgstr ""
+
+#: inc/integrations/be-gdpr.php:21
+msgid "Consent to display content from Vimeo."
+msgstr ""
+
+#: inc/integrations/be-gdpr.php:26
+msgid "Consent to display content from Google Maps."
+msgstr ""
+
+#: inc/integrations/be-gdpr.php:31
+msgid "Consent to display content from Spotify."
+msgstr ""
+
+#: inc/integrations/be-gdpr.php:36
+msgid "Consent to display content from Sound Cloud."
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:219
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:220
+#: lib/admin-tpl/start-page.php:37
+#: lib/start-page/ExponentAdminMenu.php:62
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:221
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:222
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:223
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:224
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:225
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:226
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:227
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:228
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:229
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:230
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:231
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:232
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/be-tgm-plugins.php:233
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:234
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/integrations/be-tgm-plugins.php:235
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/integrations/tatsu.php:69
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/integrations/tatsu.php:89
+#: inc/integrations/tatsu.php:278
+msgid "Advanced"
+msgstr ""
+
+#: inc/integrations/tatsu.php:101
+msgid "Icon Color"
+msgstr ""
+
+#: inc/integrations/tatsu.php:114
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/integrations/tatsu.php:249
+msgid "Products"
+msgstr ""
+
+#: inc/integrations/tatsu.php:260
+msgid "Content"
+msgstr ""
+
+#: inc/integrations/tatsu.php:289
+msgid "Products Count"
+msgstr ""
+
+#: inc/integrations/tatsu.php:313
+msgid "Columns"
+msgstr ""
+
+#: inc/integrations/tatsu.php:325
+msgid "Show"
+msgstr ""
+
+#: inc/integrations/tatsu.php:337
+msgid "Order By"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:5
+msgid "Button General"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:15
+msgid "Small Button"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:27
+msgid "Medium Button"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:39
+msgid "Large Button"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:51
+msgid "XL Button"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:63
+msgid "Block Button (Full Width)"
+msgstr ""
+
+#: inc/integrations/typehub/buttons.php:75
+msgid "Animated Links"
+msgstr ""
+
+#: inc/integrations/typehub/forms.php:6
+msgid "Form Entries"
+msgstr ""
+
+#: inc/integrations/typehub/forms.php:20
+msgid "Form Label / Placeholder"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:5
+msgid "Heading 1"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:21
+msgid "Heading 2"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:37
+msgid "Heading 3"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:53
+msgid "Heading 4"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:69
+msgid "Heading 5"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:93
+msgid "Heading 6"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:140
+msgid "Heading 7"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:156
+msgid "Heading 8"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:172
+msgid "Heading 9"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:188
+msgid "Body - Main Text"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:205
+msgid "Body - Variant 1"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:221
+msgid "Body - Variant 2"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:237
+msgid "Blockquote"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:253
+msgid "Global Page Title"
+msgstr ""
+
+#: inc/integrations/typehub/headings.php:268
+msgid "Global Post / Portfolio Navigation"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:6
+msgid "Post Archive - Title (List Styles)"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:21
+msgid "Post Archive - Title (Grid Styles)"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:36
+msgid "Post Archive - Content"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:51
+msgid "Post Archive - Category Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:66
+msgid "Post Archive - Author Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:81
+msgid "Post Archive - Date Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:97
+msgid "Post Archive - Title (Recent Posts)"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:112
+msgid "Post Archive - Title (Featured Posts)"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:127
+msgid "Post Archive - Title (Related Posts)"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:142
+msgid "Individual Post Title"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:157
+msgid "Individual Post Content"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:172
+msgid "Individual Post - Category Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:187
+msgid "Individual Post - Author Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:202
+msgid "Individual Post - Date Meta"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:217
+msgid "Individual Post - Author Title"
+msgstr ""
+
+#: inc/integrations/typehub/posts.php:232
+msgid "Individual Post - Author Description"
+msgstr ""
+
+#: inc/integrations/typehub/sidebar.php:5
+msgid "Sidebar Heading"
+msgstr ""
+
+#: inc/integrations/typehub/sidebar.php:20
+msgid "Sidebar Content"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:6
+msgid "Shop Page - Product Title"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:21
+msgid "Shop Page - Price"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:36
+msgid "Shop Page - On Sale - Striked Price"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:50
+msgid "Shop Page - Category Meta"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:65
+msgid "Shop Page -  Add to Cart Text"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:77
+msgid "Shop Page - Sale Indicator"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:90
+msgid "Individual Product - Title"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:105
+msgid "Individual Product - Price"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:120
+msgid "Individual Product - On Sale - Striked Price"
+msgstr ""
+
+#: inc/integrations/typehub/woocommerce.php:135
+msgid "Individual Product - Meta"
+msgstr ""
+
+#: inc/widgets/init.php:11
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/widgets/init.php:13
+msgid "Widget area of Sidebar template pages"
+msgstr ""
+
+#: inc/widgets/init.php:22
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/widgets/init.php:24
+#: inc/widgets/init.php:35
+#: inc/widgets/init.php:46
+#: inc/widgets/init.php:57
+msgid "Footer widget area"
+msgstr ""
+
+#: inc/widgets/init.php:33
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/widgets/init.php:44
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/widgets/init.php:55
+msgid "Footer Column 4"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:20
+msgid "Welcome to "
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:36
+msgid "License"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:38
+msgid "Import"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:39
+#: lib/start-page/ExponentAdminMenu.php:61
+msgid "System Status"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:45
+msgid "Getting started with Exponent is pretty simple just follow the below steps:"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:47
+msgid "Register your purchase by going to "
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:47
+msgid "License Tab"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:48
+msgid "Install & Activate Recommended and Required Plugins "
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:49
+msgid "Import any of the demo content by going to "
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:50
+msgid "That's it! Start Building your Website"
+msgstr ""
+
+#: lib/admin-tpl/start-page.php:89
+msgid "Please enter your theme purchase code to allow automatic updates"
+msgstr ""
+
+#: lib/start-page/ExponentAdminMenu.php:60
+msgid "Prdouct License"
+msgstr ""
+
+#: lib/start-page/ExponentAdminMenu.php:63
+msgid "Import Content"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:146
+msgid "...verifying"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:156
+msgid "No Slug Found"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:174
+msgid "Activating Plugin"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:190
+msgid "Installing Plugin"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:200
+msgid "Success"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:240
+msgid "Default Plugins"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:246
+msgid "Your website needs a few essential plugins. The following plugins will be installed or updated:"
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:280
+msgid "Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:284
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: lib/start-page/ExponentInstallPlugins.php:287
+msgid "Install & Activate"
+msgstr ""
+
+#: lib/start-page/ExponentRegister.php:41
+msgid "Token"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank Page Template"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page With Sidebar Full Width"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page With Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Fixed"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Right Sidebar"
+msgstr ""
+
+#: template-parts/partials/posts-nav.php:28
+msgid "Previous"
+msgstr ""
+
+#: template-parts/partials/posts-nav.php:52
+msgid "Next"
+msgstr ""
+
+#: template-parts/partials/title.php:8
+msgid "Category"
+msgstr ""
+
+#: template-parts/partials/title.php:11
+msgid "Articles Tagged with"
+msgstr ""
+
+#: template-parts/partials/title.php:14
+msgid "Search Results"
+msgstr ""
+
+#: template-parts/partials/title.php:19
+msgid "Portfolio Category"
+msgstr ""
+
+#: template-parts/partials/title.php:22
+msgid "Portfolios Tagged with"
+msgstr ""
+
+#: template-parts/partials/title.php:33
+msgid "Posts by"
+msgstr ""
+
+#: template-parts/partials/title.php:37
+msgid "Daily Archives"
+msgstr ""
+
+#: template-parts/partials/title.php:40
+msgid "Monthly Archives"
+msgstr ""
+
+#: template-parts/partials/title.php:41
+msgid "F Y"
+msgstr ""
+
+#: template-parts/partials/title.php:43
+msgid "Yearly Archives"
+msgstr ""
+
+#: template-parts/partials/title.php:44
+msgid "F"
+msgstr ""
+
+#: template-parts/partials/title.php:46
+msgid "Blog Archives"
+msgstr ""
+
+#: template-parts/partials/title.php:49
+msgid "Portfolio"
+msgstr ""
+
+#: template-parts/partials/title.php:54
+msgid "Post"
+msgstr ""
+
+#: template-parts/partials/title.php:59
+msgid "Blog"
+msgstr ""
+
+#: template-parts/posts/archive.php:22
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: template-parts/posts/partials/archive-meta-author.php:7
+#: template-parts/posts/partials/archive-meta-author.php:10
+msgid "by "
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:80
+#: woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34
+#: woocommerce/cart/cart.php:100
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:106
+#: woocommerce/single-product/add-to-cart/variable.php:55
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+#: woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:95
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+#: woocommerce/checkout/form-coupon.php:35
+#: woocommerce/exponent-woo-functions.php:698
+#: woocommerce/global/form-coupon.php:36
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+#: woocommerce/cart/cart.php:155
+#: woocommerce/checkout/form-coupon.php:38
+#: woocommerce/exponent-woo-functions.php:699
+#: woocommerce/exponent-woo-functions.php:700
+#: woocommerce/global/form-coupon.php:39
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+#: woocommerce/exponent-woo-functions.php:632
+msgid "Your Shopping Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+#: woocommerce/exponent-woo-functions.php:635
+msgid "Missed something ?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:32
+#: woocommerce/exponent-woo-functions.php:637
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:44
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:75
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#: woocommerce/exponent-woo-functions.php:768
+#: woocommerce/global/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#: woocommerce/exponent-woo-functions.php:768
+#: woocommerce/global/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+#: woocommerce/global/form-coupon.php:32
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+#: woocommerce/exponent-woo-functions.php:774
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+#: woocommerce/exponent-woo-functions.php:774
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+#: woocommerce/exponent-woo-functions.php:850
+#: woocommerce/global/form-login.php:63
+msgid "If you have shopped with us before, please enter your details below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "Order Failed"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+msgid "Alas, that's unfortunate"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Order Successful"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:65
+msgid "Yay, that's awesome"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:72
+#: woocommerce/checkout/thankyou.php:121
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:83
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:92
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:97
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:106
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:580
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:582
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:585
+#: woocommerce/exponent-woo-functions.php:844
+#: woocommerce/global/form-login.php:56
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:711
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:712
+msgid "Update Your Cart"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:831
+#: woocommerce/global/form-login.php:38
+msgid "Username or email*"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:834
+#: woocommerce/global/form-login.php:41
+msgid "Password*"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:839
+#: woocommerce/global/form-login.php:46
+#: woocommerce/myaccount/form-login.php:34
+msgid "Login"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:963
+#: woocommerce/exponent-woo-functions.php:973
+msgid "Search Products"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1071
+#: woocommerce/exponent-woo-functions.php:1162
+#: woocommerce/exponent-woo-functions.php:1224
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1316
+msgid "View review"
+msgid_plural "View reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/exponent-woo-functions.php:1432
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1434
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1439
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/exponent-woo-functions.php:1440
+msgid "Tag: "
+msgid_plural "Tags: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/exponent-woo-functions.php:1456
+msgid "Share"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1604
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1614
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1670
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1678
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1701
+msgid "Submit Your Review"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1701
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1703
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1706
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1707
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1708
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1709
+msgid "Good"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1710
+msgid "Average"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1711
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1712
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1717
+#: woocommerce/exponent-woo-functions.php:1723
+msgid "Name"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1718
+#: woocommerce/exponent-woo-functions.php:1724
+msgid "Email"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1720
+#: woocommerce/exponent-woo-functions.php:1726
+msgid "Description"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:2075
+msgid "Cart Overview"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:37
+msgid "Hello %1$s (not %1$s? <a class=\"%2$s\" href=\"%3$s\">Log out</a>)"
+msgstr ""
+
+#. translators: 1: Orders URL 2: Address URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:48
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:51
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:26
+msgid "Your Information"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#: woocommerce/myaccount/form-login.php:85
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:91
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:100
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:28
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:31
+msgid "Add, edit or save details of your account"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:49
+msgid "Clear"
+msgstr ""

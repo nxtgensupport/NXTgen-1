@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – Software Firm",
+	"blog_page_title": "Blog - Software Firm",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu":"Tatsu"
+	},
+	"nav_menus":{"2":"Main Menu - Software Firm","17":"Footer Menu - Software Firm","18":"Footer Menu 2 - Software Firm"}
+}

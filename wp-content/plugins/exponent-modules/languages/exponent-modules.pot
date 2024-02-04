@@ -1,0 +1,397 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Exponent Modules\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-13 10:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: exponent-modules"
+
+#: includes/modules/contact_form7.php:274
+msgid "Accent"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Ons for Tatsu Page Builder and Exponent theme"
+msgstr ""
+
+#: includes/modules/blog.php:239 includes/modules/contact_form7.php:185
+#: includes/modules/countdown.php:62 includes/modules/featured_posts.php:173
+#: includes/modules/newsletter.php:224 includes/modules/recent_posts.php:218
+msgid "Advanced"
+msgstr ""
+
+#: includes/modules/blog.php:337 includes/modules/countdown.php:98
+#: includes/modules/featured_posts.php:333 includes/modules/newsletter.php:299
+msgid "Align"
+msgstr ""
+
+#: includes/modules/recent_posts.php:336
+msgid "Alignment"
+msgstr ""
+
+#: includes/functions/helpers.php:115
+msgid "Api Key / List Id / Email Address is missing"
+msgstr ""
+
+#: includes/modules/recent_posts.php:426
+msgid "Arrows"
+msgstr ""
+
+#: includes/modules/blog.php:548 includes/modules/featured_posts.php:414
+#: includes/modules/recent_posts.php:321
+msgid "Author Meta Image"
+msgstr ""
+
+#: includes/modules/contact_form7.php:220
+msgid "Background"
+msgstr ""
+
+#: includes/modules/contact_form7.php:343
+msgid "Border"
+msgstr ""
+
+#: includes/modules/blog.php:469 includes/modules/featured_posts.php:322
+#: includes/modules/recent_posts.php:494
+msgid "Border Radius"
+msgstr ""
+
+#. Author of the plugin
+msgid "Brand Exponents"
+msgstr ""
+
+#: includes/modules/contact_form7.php:317
+msgid "Button"
+msgstr ""
+
+#: includes/modules/contact_form7.php:330 includes/modules/newsletter.php:347
+#: includes/modules/newsletter.php:363
+msgid "Button Background"
+msgstr ""
+
+#: includes/modules/newsletter.php:420 includes/modules/newsletter.php:434
+msgid "Button Border"
+msgstr ""
+
+#: includes/modules/newsletter.php:403
+msgid "Button Border Width"
+msgstr ""
+
+#: includes/modules/contact_form7.php:304
+msgid "Button Style"
+msgstr ""
+
+#: includes/modules/newsletter.php:311 includes/modules/newsletter.php:376
+#: includes/modules/newsletter.php:389
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/blog.php:329 includes/modules/recent_posts.php:271
+msgid "Categories"
+msgstr ""
+
+#: includes/modules/contact_form7.php:168 includes/modules/newsletter.php:188
+msgid "Colors"
+msgstr ""
+
+#: includes/modules/blog.php:390 includes/modules/recent_posts.php:403
+msgid "Columns"
+msgstr ""
+
+#: includes/functions/helpers.php:186
+msgid "Consent to display content from Vimeo."
+msgstr ""
+
+#: includes/functions/helpers.php:181
+msgid "Consent to display content from YouTube."
+msgstr ""
+
+#: includes/modules/blog.php:193 includes/modules/contact_form7.php:151
+#: includes/modules/countdown.php:47 includes/modules/featured_posts.php:147
+#: includes/modules/newsletter.php:168 includes/modules/recent_posts.php:162
+msgid "Content"
+msgstr ""
+
+#: includes/modules/recent_posts.php:379
+msgid "Content - Shadow"
+msgstr ""
+
+#: includes/modules/blog.php:380 includes/modules/recent_posts.php:392
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/modules/blog.php:373 includes/modules/recent_posts.php:359
+msgid "Content Padding"
+msgstr ""
+
+#: includes/modules/blog.php:492
+msgid "Content Shadow"
+msgstr ""
+
+#: includes/integrations/typehub.php:6 includes/modules/countdown.php:37
+msgid "Countdown"
+msgstr ""
+
+#: includes/integrations/typehub.php:18
+msgid "Countdown Caption"
+msgstr ""
+
+#: includes/modules/blog.php:486 includes/modules/blog.php:499
+#: includes/modules/featured_posts.php:365
+#: includes/modules/recent_posts.php:373 includes/modules/recent_posts.php:386
+msgid "Dark"
+msgstr ""
+
+#: includes/modules/blog.php:541 includes/modules/featured_posts.php:407
+#: includes/modules/recent_posts.php:314
+msgid "Date Meta Icon"
+msgstr ""
+
+#: includes/modules/newsletter.php:75
+msgid "Email"
+msgstr ""
+
+#: includes/modules/newsletter.php:334
+msgid "Email Background"
+msgstr ""
+
+#: includes/modules/newsletter.php:448
+msgid "Email Focus State"
+msgstr ""
+
+#: includes/modules/newsletter.php:318
+msgid "Email Text"
+msgstr ""
+
+#: includes/modules/countdown.php:74
+msgid "End Date & Time"
+msgstr ""
+
+#: includes/modules/blog.php:183
+msgid "Exp Blog"
+msgstr ""
+
+#: includes/modules/contact_form7.php:107
+msgid "Exp Contact Form 7"
+msgstr ""
+
+#: includes/modules/featured_posts.php:137
+msgid "Exp Featured Posts Slider"
+msgstr ""
+
+#: includes/modules/recent_posts.php:152
+msgid "Exp Recent Posts"
+msgstr ""
+
+#. Name of the plugin
+msgid "Exponent Modules"
+msgstr ""
+
+#: includes/modules/featured_posts.php:201
+msgid "Featured Posts Type"
+msgstr ""
+
+#: includes/modules/contact_form7.php:261
+msgid "Form Style"
+msgstr ""
+
+#: includes/modules/contact_form7.php:212
+msgid "Forms"
+msgstr ""
+
+#: includes/modules/blog.php:356 includes/modules/recent_posts.php:504
+msgid "Grid Aspect Ratio"
+msgstr ""
+
+#: includes/modules/featured_posts.php:234
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/modules/featured_posts.php:248
+msgid "Grid With Margin"
+msgstr ""
+
+#: includes/modules/blog.php:404 includes/modules/featured_posts.php:257
+#: includes/modules/recent_posts.php:416
+msgid "Gutter"
+msgstr ""
+
+#: includes/modules/featured_posts.php:346
+msgid "Height"
+msgstr ""
+
+#: includes/modules/blog.php:349 includes/modules/recent_posts.php:348
+msgid "Hide Content"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://brandexponents.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://exponentwptheme.com"
+msgstr ""
+
+#: includes/modules/contact_form7.php:248
+msgid "Label"
+msgstr ""
+
+#: includes/modules/blog.php:555 includes/modules/featured_posts.php:421
+#: includes/modules/recent_posts.php:328
+msgid "Labeled Style for Categories Meta"
+msgstr ""
+
+#: includes/modules/blog.php:484 includes/modules/blog.php:497
+#: includes/modules/featured_posts.php:363
+#: includes/modules/recent_posts.php:371 includes/modules/recent_posts.php:384
+msgid "Light"
+msgstr ""
+
+#: includes/modules/contact_form7.php:266
+msgid "Line"
+msgstr ""
+
+#: includes/modules/newsletter.php:251
+msgid "Mailchimp.com Api key"
+msgstr ""
+
+#: includes/modules/newsletter.php:258
+msgid "Mailchimp.com List ID"
+msgstr ""
+
+#: includes/modules/blog.php:485 includes/modules/blog.php:498
+#: includes/modules/featured_posts.php:364
+#: includes/modules/recent_posts.php:372 includes/modules/recent_posts.php:385
+msgid "Medium"
+msgstr ""
+
+#: includes/modules/blog.php:205 includes/modules/recent_posts.php:172
+msgid "Meta Settings"
+msgstr ""
+
+#: includes/modules/newsletter.php:99
+msgid "Newsletter"
+msgstr ""
+
+#: includes/modules/blog.php:483 includes/modules/blog.php:496
+#: includes/modules/featured_posts.php:362
+#: includes/modules/recent_posts.php:370 includes/modules/recent_posts.php:383
+msgid "None"
+msgstr ""
+
+#: includes/modules/newsletter.php:195 includes/modules/newsletter.php:207
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/blog.php:266 includes/modules/recent_posts.php:245
+msgid "Number of Items"
+msgstr ""
+
+#: includes/modules/blog.php:278
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/blog.php:286
+msgid "Pagination Alignment"
+msgstr ""
+
+#: includes/modules/contact_form7.php:268
+#: includes/modules/contact_form7.php:309
+msgid "Pill"
+msgstr ""
+
+#: includes/modules/contact_form7.php:311
+msgid "Pill - Block"
+msgstr ""
+
+#: includes/modules/blog.php:505 includes/modules/featured_posts.php:371
+#: includes/modules/recent_posts.php:278
+msgid "Primary Meta"
+msgstr ""
+
+#: includes/modules/blog.php:563
+msgid "Read More Style"
+msgstr ""
+
+#: includes/modules/contact_form7.php:308
+msgid "Rounded"
+msgstr ""
+
+#: includes/modules/contact_form7.php:267
+msgid "Rounded - Inner Shadow "
+msgstr ""
+
+#: includes/modules/contact_form7.php:310
+msgid "Rounded Block"
+msgstr ""
+
+#: includes/modules/blog.php:517 includes/modules/featured_posts.php:383
+#: includes/modules/recent_posts.php:290
+msgid "Secondary Meta"
+msgstr ""
+
+#: includes/modules/featured_posts.php:358
+msgid "Shadow"
+msgstr ""
+
+#: includes/modules/featured_posts.php:212
+msgid "Slide Width"
+msgstr ""
+
+#: includes/modules/recent_posts.php:203
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/modules/contact_form7.php:265
+msgid "Solid"
+msgstr ""
+
+#: includes/modules/blog.php:221 includes/modules/blog.php:299
+#: includes/modules/contact_form7.php:158 includes/modules/countdown.php:54
+#: includes/modules/featured_posts.php:159 includes/modules/newsletter.php:177
+#: includes/modules/newsletter.php:271 includes/modules/recent_posts.php:188
+#: includes/modules/recent_posts.php:257
+msgid "Style"
+msgstr ""
+
+#: includes/modules/newsletter.php:312
+msgid "Subscribe"
+msgstr ""
+
+#: includes/modules/blog.php:529 includes/modules/featured_posts.php:395
+#: includes/modules/recent_posts.php:302
+msgid "Tertiary Meta"
+msgstr ""
+
+#: includes/modules/contact_form7.php:235
+msgid "Text"
+msgstr ""
+
+#: includes/modules/countdown.php:84
+msgid "Text Color"
+msgstr ""
+
+#: includes/functions/helpers.php:131
+msgid "Thank you, you have been added to our mailing list."
+msgstr ""
+
+#: includes/modules/recent_posts.php:366
+msgid "Thumb - Shadow"
+msgstr ""
+
+#: includes/modules/blog.php:479
+msgid "Thumb Shadow"
+msgstr ""
+
+#: includes/modules/newsletter.php:277
+msgid "Width"
+msgstr ""

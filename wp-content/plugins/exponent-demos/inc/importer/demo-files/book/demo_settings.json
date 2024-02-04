@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Book",
+	"blog_page_title": "",
+	"content_plugins": {
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"2":"Book Footer","3":"Book Main Menu"}
+}

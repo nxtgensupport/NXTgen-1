@@ -1,0 +1,13 @@
+{
+	"home_page_title": "Home - Shop Demo",
+	"blog_page_title": "Blog - Shop Demo",
+	"shop_page_title": "Shop - Shop Demo",
+	"my_account_page_title": "My account - Shop Demo",
+	"cart_page_title": "Cart - Shop Demo",
+	"checkout_page_title": "Checkout - Shop Demo",
+	"content_plugins": {
+		"woocommerce":"Woo Commerce",
+		"tatsu": "Tatsu"
+	},
+	"nav_menus":{"47":"Main Menu - Shop Demo","64":"Footer Menu - Shop Demo","65":"Terms - Shop Demo"}
+}

@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Home – Cleaning",
+	
+	"sliders": {
+		"revslider": "cleaning-home.zip"
+	},
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu":"Tatsu",
+		"revslider": "Slider Revolution"
+	},
+	"nav_menus":{"19":"Main Menu - Cleaning","22":"Services - Cleaning","24":"Resources"}
+}

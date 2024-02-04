@@ -1,0 +1,9 @@
+{
+	"apiVersion": 3,
+	"name": "greenshift-blocks/product-tabs",
+    "title": "Product tabs",
+    "description": "Product tabs",
+	"category":"greenShiftWoo",
+	"textdomain": "greenshiftwoo",
+	"editorStyle": "greenShiftWoo-block-css"
+}

@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home - Restaurant",
+	"blog_page_title": "Blog - Restaurant",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu": "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Restaurant"}
+}

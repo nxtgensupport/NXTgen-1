@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Homepage-Handyman",
+	"blog_page_title": "",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"27":"Handyman Menu"}
+}

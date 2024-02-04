@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Home with Slider – Finance",
+	"blog_page_title": "Blog - Finance",
+	"sliders": {
+		"revslider": "finance-home.zip"
+	},
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu",
+		"revslider": "Slider Revolution"
+	},
+	"nav_menus":{"18":"Main Menu Left - Finance","19":"Main Menu Right - Finance","20":"Services - Finance","21":"Legal - Finance","22":"Privacy - Finance","39":"finance mobile menu"}
+}

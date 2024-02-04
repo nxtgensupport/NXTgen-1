@@ -1,0 +1,10 @@
+{
+    "home_page_title": "Home - Agency",
+	"blog_page_title": "Blog - Agency",
+    "content_plugins":{
+        "WPForms": "WP Forms",
+        "be-grid": "BE Grid",
+        "tatsu":"Tatsu"
+    },
+    "nav_menus":{"36":"Main Menu - Agency"}
+}

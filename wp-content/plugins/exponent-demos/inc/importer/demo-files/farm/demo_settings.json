@@ -1,0 +1,11 @@
+{
+	"home_page_title": "Home - Farm",
+	"blog_page_title": "Blog - Farm",
+	"shop_page_title": "Products - Farm",
+	"content_plugins": {
+		"woocommerce":"Woo Commerce",
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Farm","28":"Footer About - Farm","29":"Footer Shop - Farm","30":"Legal - Farm"}
+}

@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Lead Generation – Home",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu": "Tatsu"
+	},
+	"nav_menus":{"2":"Lead Gen - Main Menu"}
+}

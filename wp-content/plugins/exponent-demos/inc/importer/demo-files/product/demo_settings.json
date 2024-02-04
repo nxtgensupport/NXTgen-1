@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – Product",
+	"blog_page_title": "Blog - Product",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Product","14":"Footer Links - Product","15":"Legal - Product"}
+}

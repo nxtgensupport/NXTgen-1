@@ -1,0 +1,1 @@
+<div class="be-themes-content-padding clearfix">

@@ -1,0 +1,10 @@
+{
+	"home_page_title": "Lawyer – Lawfirm",
+	"blog_page_title": "Blog - Lawfirm", 
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Lawfirm","14":"Footer Casestudies - Lawfirm","15":"Footer About - Lawfirm","16":"Footer People - Lawfirm"}
+}

@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Home",
+	
+	"sliders": {
+		"revslider": "slider-1.zip"
+	},
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu":"Tatsu",
+		"revslider": "Slider Revolution"
+	},
+	"nav_menus":{"5":"Main_Menu"}
+}

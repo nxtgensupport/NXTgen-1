@@ -1,0 +1,14 @@
+{
+    "home_page_title":"Home with slider – Construction",
+    "blog_page_title":"Blog - Construction",
+    "sliders": {
+		"revslider": "exponent-construction.zip"
+	},
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu",
+		"revslider": "Slider Revolution"
+	},
+    "nav_menus":{"13":"Main Menu - Construction","49":"Footer Links - Construction","50":"Our Products - Construction","51":"Terms and Conditions - Construction"}
+}

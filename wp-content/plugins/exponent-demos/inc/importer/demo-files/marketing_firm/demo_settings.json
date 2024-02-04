@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – Marketing",
+	"blog_page_title": "",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"46":"Marketing - Menu","57":"Legal"}
+}

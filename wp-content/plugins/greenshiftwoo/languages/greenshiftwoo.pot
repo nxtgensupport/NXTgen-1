@@ -1,0 +1,1833 @@
+# Copyright (C) 2023 Wpsoul
+# This file is distributed under the same license as the Greenshift Woocommerce Addon plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Greenshift Woocommerce Addon 1.6.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/greenshiftwoo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-08T13:49:07+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: greenshiftwoo\n"
+
+#. Plugin Name of the plugin
+msgid "Greenshift Woocommerce Addon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extend Woocommerce with Gutenberg blocks"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wpsoul"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://greenshiftwp.com"
+msgstr ""
+
+#: blockrender/product-availability/block.php:83
+#: blockrender/product-button/block.php:104
+#: blockrender/product-categories/block.php:71
+#: blockrender/product-discount/block.php:71
+#: blockrender/product-featured-image/block.php:92
+#: blockrender/product-gallery/block.php:92
+#: blockrender/product-price/block.php:72
+#: blockrender/product-quick-view/block.php:83
+#: blockrender/product-quick-view/block.php:164
+#: blockrender/product-rating/block.php:87
+#: blockrender/product-sku/block.php:71
+#: blockrender/product-tabs/block.php:93
+#: blockrender/product-tabs/block.php:99
+#: blockrender/product-tags/block.php:71
+#: blockrender/product-title/block.php:84
+#: greenshiftwoo.php:731
+msgid "Product not found."
+msgstr ""
+
+#: blockrender/product-availability/block.php:84
+#: greenshiftwoo.php:755
+#: includes/comparison.php:726
+msgid "In stock"
+msgstr ""
+
+#: blockrender/product-categories/block.php:74
+#: greenshiftwoo.php:744
+msgid "Categories not found"
+msgstr ""
+
+#: blockrender/product-quick-view/block.php:156
+msgid "Open full product page"
+msgstr ""
+
+#: greenshiftwoo.php:208
+msgid "What's New"
+msgstr ""
+
+#: greenshiftwoo.php:362
+msgid "Please, add items to this compare group or choose not empty group"
+msgstr ""
+
+#: greenshiftwoo.php:363
+msgid "Please, add more items to compare"
+msgstr ""
+
+#: greenshiftwoo.php:748
+msgid "Tags not found"
+msgstr ""
+
+#: greenshiftwoo.php:752
+msgid "SKU not found"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:116
+#: inc/templates/woo-group-attributes-public.php:129
+msgid "Dimensions"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:123
+msgid "Weight"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:23
+msgid "Greenshift Tools"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:66
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:72
+msgid "Hide Description tab"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:73
+msgid "The option disables Description tab on Product page"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:79
+msgid "Enable Gutenberg for Woocommerce Editor"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:80
+msgid "Experimental, use with caution"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:86
+msgid "Disable Woo gallery scripts"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:87
+msgid "ONLY FOR FSE THEMES! Use this if you use Product Gallery block on Single product template"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:93
+msgid "Disable Woo Cart scripts"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:94
+msgid "ONLY FOR AFFILIATE AND CATALOG MODE! This will disable cart scripts on pages"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:100
+msgid "Remove render functions from Hooks"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:101
+msgid "ONLY FOR FSE THEMES! Use this if you build custom FSE templates. This will disable render functions attached to hooks and you can add Hook block in places where you need hooks, which can be required for some plugins"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:112
+#: includes/class_gspbwoo_tools.php:154
+msgid "Name for tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:116
+#: includes/class_gspbwoo_tools.php:157
+msgid "Tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:120
+#: includes/class_gspbwoo_tools.php:160
+msgid "Content for tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:127
+#: includes/class_gspbwoo_tools.php:167
+msgid "Order for tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:130
+#: includes/class_gspbwoo_tools.php:170
+msgid "10"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:69
+msgid "Select"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:70
+msgid "Color"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:71
+#: includes/meta.php:78
+#: includes/meta.php:96
+msgid "Image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:72
+msgid "Text tag"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:73
+msgid "Image tag"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:96
+#: includes/class_wc_attribute_swatches.php:115
+msgid "Swatch Color"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:100
+#: includes/class_wc_attribute_swatches.php:119
+#: includes/class_wc_attribute_swatches.php:191
+#: includes/class_wc_attribute_swatches.php:256
+#: includes/class_wc_attribute_swatches.php:324
+#: includes/class_wc_attribute_swatches.php:384
+#: includes/class_wc_attribute_swatches.php:398
+#: includes/class_wc_attribute_swatches.php:414
+msgid "Swatch Tooltip"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:130
+#: includes/class_wc_attribute_swatches.php:206
+msgid "Swatch Image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:134
+#: includes/class_wc_attribute_swatches.php:211
+#: includes/class_wc_attribute_swatches.php:271
+#: includes/class_wc_attribute_swatches.php:343
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:135
+#: includes/class_wc_attribute_swatches.php:212
+#: includes/class_wc_attribute_swatches.php:272
+#: includes/class_wc_attribute_swatches.php:344
+msgid "Remove image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:149
+#: includes/class_wc_attribute_swatches.php:226
+#: includes/class_wc_attribute_swatches.php:286
+#: includes/class_wc_attribute_swatches.php:358
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:151
+#: includes/class_wc_attribute_swatches.php:228
+#: includes/class_wc_attribute_swatches.php:288
+#: includes/class_wc_attribute_swatches.php:360
+msgid "Use image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:187
+#: includes/class_wc_attribute_swatches.php:252
+#: includes/class_wc_attribute_swatches.php:394
+#: includes/class_wc_attribute_swatches.php:410
+msgid "Swatch Text"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:267
+#: includes/class_wc_attribute_swatches.php:338
+msgid "Swatch image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:509
+#: includes/class_wc_attribute_swatches.php:526
+#: includes/class_wc_attribute_swatches.php:545
+msgid "Swatch"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:589
+msgid "Select terms"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:603
+msgid "Select all"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:604
+msgid "Select none"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:605
+msgid "Add new"
+msgstr ""
+
+#: includes/comparison.php:15
+msgid "Type name of products"
+msgstr ""
+
+#: includes/comparison.php:492
+msgid "Add more items"
+msgstr ""
+
+#: includes/comparison.php:612
+msgid "Show only differences"
+msgstr ""
+
+#: includes/comparison.php:615
+#: build/index.js:1
+msgid "Overview"
+msgstr ""
+
+#: includes/comparison.php:618
+#: build/index.js:1
+msgid "Description"
+msgstr ""
+
+#: includes/comparison.php:621
+msgid "Availability"
+msgstr ""
+
+#: includes/comparison.php:624
+msgid "User Rating"
+msgstr ""
+
+#: includes/comparison.php:637
+#: includes/helper-functions.php:87
+msgid "Specification"
+msgstr ""
+
+#: includes/comparison.php:664
+msgid "Featured!"
+msgstr ""
+
+#: includes/comparison.php:677
+msgid "Sale!"
+msgstr ""
+
+#: includes/comparison.php:728
+msgid "Out of stock"
+msgstr ""
+
+#: includes/comparison.php:819
+msgid "No posts for this criteria."
+msgstr ""
+
+#: includes/comparison.php:826
+msgid "No products for comparison"
+msgstr ""
+
+#: includes/comparison.php:948
+msgid "Add to Comparison"
+msgstr ""
+
+#: includes/comparison.php:951
+msgid "No results"
+msgstr ""
+
+#: includes/meta.php:15
+msgid "360 gallery, Video, 3D"
+msgstr ""
+
+#: includes/meta.php:52
+#: includes/meta.php:69
+#: includes/meta.php:269
+#: includes/meta.php:278
+msgid "Delete image"
+msgstr ""
+
+#: includes/meta.php:52
+#: includes/meta.php:69
+#: includes/meta.php:269
+#: includes/meta.php:278
+msgid "Delete"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add Images to 360 Gallery"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add to 360 gallery"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add 360 gallery images"
+msgstr ""
+
+#: includes/meta.php:84
+#: includes/meta.php:99
+msgid "Upload Image"
+msgstr ""
+
+#: includes/meta.php:87
+#: includes/meta.php:102
+msgid "Video or 3d link"
+msgstr ""
+
+#: includes/meta.php:89
+#: includes/meta.php:104
+msgid "Upload File"
+msgstr ""
+
+#: includes/meta.php:89
+#: includes/meta.php:104
+msgid "Remove"
+msgstr ""
+
+#: includes/meta.php:109
+msgid "Add File group"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add Images to Variation Gallery"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add to Variation gallery"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add Variation gallery images"
+msgstr ""
+
+#: includes/query.php:214
+#: build/index.js:1
+msgid "Choose category"
+msgstr ""
+
+#: includes/query.php:216
+msgid "All categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:40
+#: includes/woo_group_attributes_class.php:51
+msgid "Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:41
+msgid "Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:42
+#: includes/woo_group_attributes_class.php:43
+msgid "Add New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:44
+msgid "Edit Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:45
+msgid "New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:46
+msgid "View Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:47
+msgid "Search Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:48
+msgid "No Attribute Groups found"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:49
+msgid "No Attribute Groups found in Trash"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:50
+msgid "Parent Attribute Group:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:70
+msgid "Attribute Group Category"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:71
+msgid "Attribute Group Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:76
+msgid "Search %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:77
+msgid "All Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:78
+msgid "Parent %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:79
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:80
+msgid "Edit %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:81
+msgid "Update %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:82
+msgid "Add New %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:83
+msgid "New %s Name"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:134
+#: includes/woo_group_attributes_class.php:191
+msgid "Attributes"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:313
+msgid "Product Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:321
+#: includes/woo_group_attributes_class.php:346
+msgid "Load"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:323
+msgid "Groups Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:348
+msgid "Current Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:355
+msgid "Are you sure you want to navigate away."
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:355
+msgid "Manage Groups"
+msgstr ""
+
+#: patterns/query/querywoogrid.php:9
+msgid "Woocommerce query loop template"
+msgstr ""
+
+#: patterns/query/querywoogridajax.php:9
+msgid "Woocommerce ajax grid with inputs"
+msgstr ""
+
+#: patterns/template/single.php:9
+msgid "Single product template"
+msgstr ""
+
+#: patterns/template/singlegallery.php:9
+msgid "Single product template with gallery"
+msgstr ""
+
+#: querypatterns.php:15
+msgid "Greenshift Woocommerce"
+msgstr ""
+
+#: querypatterns.php:20
+msgid "Greenshift Woocommerce Loop"
+msgstr ""
+
+#: querypatterns.php:24
+msgid "Greenshift Woocommerce FSE templates"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Text Left"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Text Center"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Text Right"
+msgstr ""
+
+#: build/index.js:1
+msgid "Source Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Current/Latest"
+msgstr ""
+
+#: build/index.js:1
+msgid "Definite"
+msgstr ""
+
+#: build/index.js:1
+msgid "Choose definite product"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Old price on separate line"
+msgstr ""
+
+#: build/index.js:1
+msgid "Change order between prices"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gap between sale and old price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Labels"
+msgstr ""
+
+#: build/index.js:1
+msgid "Postfix"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gap between labels"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Old Price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Variable Price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Postfix"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background and Opacity"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Animation"
+msgstr ""
+
+#: build/index.js:1
+msgid "Css Transform"
+msgstr ""
+
+#: build/index.js:1
+msgid "Position"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product categories"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Categories"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product tags"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Tags"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product SKU"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for SKU"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product availability"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show only Out of stock text?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Leave empty to use default Woocommerce value. This option is working only on frontend"
+msgstr ""
+
+#: build/index.js:1
+msgid "In stock text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Out of stock text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Backorder text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Availability"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Out of stock"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add to cart button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Space Between"
+msgstr ""
+
+#: build/index.js:1
+msgid "Full width button?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable icon?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable redirect link to cart?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable text on button?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Place icon in opposite side"
+msgstr ""
+
+#: build/index.js:1
+msgid "Quantity input design can be controlled by your theme"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom Labels"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for simple products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for variable products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for affiliate products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active Icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Transitions"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Overlay effects"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add to Cart"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product discount"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Discount"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product rating"
+msgstr ""
+
+#: build/index.js:1
+msgid "Single page rating block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Rating with link. Use on single product pages"
+msgstr ""
+
+#: build/index.js:1
+msgid "Stars"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number"
+msgstr ""
+
+#: build/index.js:1
+msgid "Color and size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Color of stars"
+msgstr ""
+
+#: build/index.js:1
+msgid "Color of empty stars"
+msgstr ""
+
+#: build/index.js:1
+msgid "Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for single rating"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for multiple ratings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Left"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Center"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align Right"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Icon on separate line"
+msgstr ""
+
+#: build/index.js:1
+msgid "Width"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Quick View"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product comparison"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add comparison to product or query block with product"
+msgstr ""
+
+#: build/index.js:1
+msgid "Main Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Table"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text for Add to compare"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove all text values if you want to show only icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text for Added to compare"
+msgstr ""
+
+#: build/index.js:1
+msgid "Set definite ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use this if you want to show button from definite post ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Login page url"
+msgstr ""
+
+#: build/index.js:1
+msgid "Place icon after text?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable counter value?"
+msgstr ""
+
+#: build/index.js:1
+msgid "comparison results page url"
+msgstr ""
+
+#: build/index.js:1
+msgid "No items text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Table type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic"
+msgstr ""
+
+#: build/index.js:1
+msgid "Predefined items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Predefined by:"
+msgstr ""
+
+#: build/index.js:1
+msgid "By id"
+msgstr ""
+
+#: build/index.js:1
+msgid "By product category"
+msgstr ""
+
+#: build/index.js:1
+msgid "By product tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Choose product"
+msgstr ""
+
+#: build/index.js:1
+msgid "Choose tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable fields"
+msgstr ""
+
+#: build/index.js:1
+msgid "Brand"
+msgstr ""
+
+#: build/index.js:1
+msgid "Stock"
+msgstr ""
+
+#: build/index.js:1
+msgid "User rate"
+msgstr ""
+
+#: build/index.js:1
+msgid "Review"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add additional content with shortcode"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shortcode label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Your shortcode"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show search button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Active"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter Right Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter Top Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search button Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search button Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search button Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search button Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for first column"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for product title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for additional shortcode label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Source"
+msgstr ""
+
+#: build/index.js:1
+msgid "Choose definite item"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Link to Page"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add also Background image for this option"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Image Mask"
+msgstr ""
+
+#: build/index.js:1
+msgid "Width, Height, Clamp"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Text Clamp?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Line Clamp"
+msgstr ""
+
+#: build/index.js:1
+msgid "No"
+msgstr ""
+
+#: build/index.js:1
+msgid "Default"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Featured Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "You can set crop factor in Customizer - Woocommerce"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Sizing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Auto"
+msgstr ""
+
+#: build/index.js:1
+msgid "Small"
+msgstr ""
+
+#: build/index.js:1
+msgid "Medium"
+msgstr ""
+
+#: build/index.js:1
+msgid "Large"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom"
+msgstr ""
+
+#: build/index.js:1
+msgid "Height"
+msgstr ""
+
+#: build/index.js:1
+msgid "Align"
+msgstr ""
+
+#: build/index.js:1
+msgid "Left"
+msgstr ""
+
+#: build/index.js:1
+msgid "Center"
+msgstr ""
+
+#: build/index.js:1
+msgid "Right"
+msgstr ""
+
+#: build/index.js:1
+msgid "Vertical Align"
+msgstr ""
+
+#: build/index.js:1
+msgid "Scale"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cover"
+msgstr ""
+
+#: build/index.js:1
+msgid "Fill"
+msgstr ""
+
+#: build/index.js:1
+msgid "Scale Down"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable WP Lazy load"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cart Button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show cart as button?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable price value?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use Sliding panel on click"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sliding Panel Heading"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for Checkout button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Background and Opacity"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Left Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Top Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Image And Gallery"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gallery Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbnail place"
+msgstr ""
+
+#: build/index.js:1
+msgid "Bottom"
+msgstr ""
+
+#: build/index.js:1
+msgid "Side"
+msgstr ""
+
+#: build/index.js:1
+msgid "Bottom view for mobiles"
+msgstr ""
+
+#: build/index.js:1
+msgid "Items per Row"
+msgstr ""
+
+#: build/index.js:1
+msgid "Space between"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbs Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbs Width (%)"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gap between Image and Thumbnails"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Scale"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbnail Scale"
+msgstr ""
+
+#: build/index.js:1
+msgid "You can also add advanced file attachments (video, 3d, 360 gallery) when you edit product. They will be added to gallery automatically. You can disable this option below"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable advanced attachments"
+msgstr ""
+
+#: build/index.js:1
+msgid "Main image Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbnail Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbnail Active Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product tabs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Tabs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Toggles"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sections"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Up/Down Arrows"
+msgstr ""
+
+#: build/index.js:1
+msgid "+/-"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Set size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "InActive tab Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "InActive tab Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "InActive tab Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "InActive tab Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "InActive tab Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Panel spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Panel Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Panel Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Panel Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product section hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Hook"
+msgstr ""
+
+#: build/index.js:1
+msgid "Wrapper hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_main_content"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_after_main_content"
+msgstr ""
+
+#: build/index.js:1
+msgid "Archive hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "Website schema"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_archive_description"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_shop_loop"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_after_shop_loop"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_sidebar"
+msgstr ""
+
+#: build/index.js:1
+msgid "Loop hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_shop_loop_item"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_shop_loop_item_title"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_shop_loop_item_title"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_after_shop_loop_item_title"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_after_shop_loop_item"
+msgstr ""
+
+#: build/index.js:1
+msgid "Single Page hooks"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_single_product"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_before_single_product_summary"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_single_product_summary"
+msgstr ""
+
+#: build/index.js:1
+msgid "woocommerce_after_single_product_summary"
+msgstr ""
+
+#: build/index.js:1
+msgid "After Product"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Schema"
+msgstr ""
+
+#: build/index.js:1
+msgid "Functions render"
+msgstr ""
+
+#: build/index.js:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Includes:"
+msgstr ""
+
+#: build/index.js:1
+msgid "You can disable included functions in Woocommerce - Settings - Greenshift Tools"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product breadcrumbs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Home Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Delimiter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gap for items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Delimiter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Notices"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product notices"
+msgstr ""
+
+#: build/index.js:1
+msgid "General"
+msgstr ""
+
+#: build/index.js:1
+msgid "Design of notice box can be controlled by theme and woocommerce. You can enable also render of woocommerce fallback styles"
+msgstr ""
+
+#: build/index.js:1
+msgid "Render Notice Styles"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Catalog Order Select"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use in archive layouts to show ordering selector"
+msgstr ""
+
+#: build/index.js:1
+msgid "Width and height"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product Catalog Result Count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use in archive layouts to show count of products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Classic Woocommerce filters"
+msgstr ""
+
+#: build/index.js:1
+msgid "Product filters for woocommerce"
+msgstr ""
+
+#: build/index.js:1
+msgid "Attribute"
+msgstr ""
+
+#: build/index.js:1
+msgid "Price"
+msgstr ""
+
+#: build/index.js:1
+msgid "Rating"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active Filters"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Attribute"
+msgstr ""
+
+#: build/index.js:1
+msgid "Display type"
+msgstr ""
+
+#: build/index.js:1
+msgid "List"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dropdown"
+msgstr ""
+
+#: build/index.js:1
+msgid "Query type"
+msgstr ""
+
+#: build/index.js:1
+msgid "AND"
+msgstr ""
+
+#: build/index.js:1
+msgid "OR"
+msgstr ""
+
+#: build/index.js:1
+msgid "Star size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable styles"
+msgstr ""
+
+#: build/index.js:1
+msgid "Note: Design of block can be changed by theme on Frontend and can be different what you see in Editor. Please, use themes which supports Woocommerce classic widgets. You can also disable styles from Greenshift in option above."
+msgstr ""
+
+#: build/index.js:1
+msgid "Widget title"
+msgstr ""
+
+#: blockrender/product-availability/block.json
+msgctxt "block title"
+msgid "Product availability"
+msgstr ""
+
+#: blockrender/product-availability/block.json
+msgctxt "block description"
+msgid "Product availability"
+msgstr ""
+
+#: blockrender/product-button/block.json
+msgctxt "block title"
+msgid "Product button"
+msgstr ""
+
+#: blockrender/product-button/block.json
+msgctxt "block description"
+msgid "Product button"
+msgstr ""
+
+#: blockrender/product-categories/block.json
+msgctxt "block title"
+msgid "Product categories"
+msgstr ""
+
+#: blockrender/product-categories/block.json
+msgctxt "block description"
+msgid "Product categories"
+msgstr ""
+
+#: blockrender/product-comparison/block.json
+msgctxt "block title"
+msgid "Product comparison"
+msgstr ""
+
+#: blockrender/product-discount/block.json
+msgctxt "block title"
+msgid "Product discount"
+msgstr ""
+
+#: blockrender/product-discount/block.json
+msgctxt "block description"
+msgid "Product discount"
+msgstr ""
+
+#: blockrender/product-featured-image/block.json
+msgctxt "block title"
+msgid "Product Featrued Image"
+msgstr ""
+
+#: blockrender/product-featured-image/block.json
+msgctxt "block description"
+msgid "Product Featrued Image"
+msgstr ""
+
+#: blockrender/product-gallery/block.json
+msgctxt "block title"
+msgid "Product Image And Gallery"
+msgstr ""
+
+#: blockrender/product-gallery/block.json
+msgctxt "block description"
+msgid "Product Image And Gallery"
+msgstr ""
+
+#: blockrender/product-hooks/block.json
+msgctxt "block title"
+msgid "Product Hooks"
+msgstr ""
+
+#: blockrender/product-hooks/block.json
+msgctxt "block description"
+msgid "Product Hooks"
+msgstr ""
+
+#: blockrender/product-price/block.json
+msgctxt "block title"
+msgid "Product price"
+msgstr ""
+
+#: blockrender/product-price/block.json
+msgctxt "block description"
+msgid "Product price"
+msgstr ""
+
+#: blockrender/product-quick-view/block.json
+msgctxt "block title"
+msgid "Product Quick View"
+msgstr ""
+
+#: blockrender/product-quick-view/block.json
+msgctxt "block description"
+msgid "Product Quick View"
+msgstr ""
+
+#: blockrender/product-rating/block.json
+msgctxt "block title"
+msgid "Product rating"
+msgstr ""
+
+#: blockrender/product-rating/block.json
+msgctxt "block description"
+msgid "Product rating"
+msgstr ""
+
+#: blockrender/product-sku/block.json
+msgctxt "block title"
+msgid "Product SKU"
+msgstr ""
+
+#: blockrender/product-sku/block.json
+msgctxt "block description"
+msgid "Product SKU"
+msgstr ""
+
+#: blockrender/product-tabs/block.json
+msgctxt "block title"
+msgid "Product tabs"
+msgstr ""
+
+#: blockrender/product-tabs/block.json
+msgctxt "block description"
+msgid "Product tabs"
+msgstr ""
+
+#: blockrender/product-tags/block.json
+msgctxt "block title"
+msgid "Product tags"
+msgstr ""
+
+#: blockrender/product-tags/block.json
+msgctxt "block description"
+msgid "Product tags"
+msgstr ""
+
+#: blockrender/product-title/block.json
+msgctxt "block title"
+msgid "Product title"
+msgstr ""
+
+#: blockrender/product-title/block.json
+msgctxt "block description"
+msgid "Product title"
+msgstr ""
+
+#: blockrender/woo-cart-button/block.json
+msgctxt "block title"
+msgid "Cart Button"
+msgstr ""
+
+#: blockrender/woo-cart-button/block.json
+msgctxt "block description"
+msgid "Cart Button"
+msgstr ""

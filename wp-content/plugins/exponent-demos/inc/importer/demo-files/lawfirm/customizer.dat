@@ -1,0 +1,107 @@
+a:4:{s:8:"template";s:8:"exponent";s:4:"mods";a:40:{s:18:"custom_css_post_id";i:3093;i:0;b:0;s:18:"nav_menu_locations";a:0:{}s:16:"sidebars_widgets";a:2:{s:4:"time";i:1534177854;s:4:"data";a:7:{s:19:"wp_inactive_widgets";a:0:{}s:15:"default-sidebar";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:15:"footer-widget-1";a:0:{}s:15:"footer-widget-2";a:0:{}s:15:"footer-widget-3";a:0:{}s:15:"footer-widget-4";a:0:{}s:14:"sliderbar-area";a:0:{}}}s:22:"author_hero_background";a:6:{s:16:"background-color";s:18:"rgba(20,20,20,0.8)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:18:"blog_archive_style";s:6:"style2";s:17:"blog_aspect_ratio";d:1.600000000000000088817841970012523233890533447265625;s:13:"enable_header";b:0;s:9:"header_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 0)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:7:"body_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 0)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:10:"content_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 0)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:16:"footer_widget_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 0)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:9:"footer_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 0)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:15:"entry_header_bg";a:6:{s:16:"background-color";s:7:"#fafbfc";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:22:"portfolio_aspect_ratio";d:1.4000000000000001332267629550187848508358001708984375;s:14:"custom_sidebar";a:0:{}s:33:"portfolio_navigation_in_all_items";b:1;s:13:"enable_footer";b:0;s:21:"enable_footer_widgets";b:0;s:9:"lazy_load";b:0;s:13:"minify_assets";b:0;s:11:"cdn_address";s:0:"";s:23:"posts_with_entry_header";a:1:{i:0;s:4:"post";}s:17:"blog_loop_sidebar";b:1;s:22:"blog_archive_alignment";s:4:"left";s:23:"blog_loop_normal_3_cols";s:1:"2";s:23:"blog_loop_normal_4_cols";s:1:"2";s:11:"blog_gutter";s:2:"40";s:26:"blog_loop_sidebar_position";s:5:"right";s:18:"single_title_style";s:4:"wrap";s:26:"blog_single_meta_date_icon";b:1;s:23:"blog_single_labeled_cat";b:1;s:18:"portfolio_home_url";s:0:"";s:16:"entry_header_pad";s:2:"90";s:18:"entry_header_color";s:7:"#313233";s:22:"entry_header_nav_color";s:7:"#313233";s:24:"blog_loop_secondary_meta";a:1:{i:0;s:4:"date";}s:20:"blog_read_more_style";s:4:"dots";s:12:"thumb_height";s:2:"60";s:29:"blog_single_meta_author_image";b:1;}s:7:"options";a:7:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}s:19:"tatsu_google_map_id";s:0:"";s:17:"tatsu_lazyload_bg";s:0:"";s:23:"tatsu_lazyload_bg_color";s:7:"#323232";s:19:"tatsu_active_header";s:23:"exponent-lawfirm-header";s:19:"tatsu_active_footer";s:23:"exponent-lawfirm-footer";}s:6:"wp_css";s:1651:"
+body {
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.tatsu-button,
+.exp-process-title-inner {
+    font-weight: 600;
+}
+
+.tatsu-an {
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+.tatsu-an-wrap h6 {
+    font-weight: 400;
+}
+
+.exp-testimonial-content {
+    line-height: 1.8;
+/*     font-weight: 300; */
+}
+
+.exp-testimonial-style3 .exp-testimonial-author {
+    margin-bottom: 3px;
+}
+.slick-dots li {
+    width: 10px;
+    height: 10px;
+}
+
+.exp-testimonials .slick-dots {
+    bottom: -40px;
+}
+
+h5, h6 {
+	margin-bottom: 8px;
+}
+
+.exp-process-header {
+	margin-bottom: 10px;
+}
+
+#product-numbers {
+	z-index: 9;
+}
+
+#product-numbers .tatsu-an,
+#product-numbers .tatsu-an-caption,
+#hosting-numbers .tatsu-an-caption,
+.animated-link {
+	font-weight: 600;
+}
+
+.tatsu-gradient-icon.align-center .tatsu-icon {
+	margin-right: 0 !important;
+}
+
+#hosting-reviews .tatsu-single-image {
+	margin-top: -100px;
+}
+
+#hosting-reviews .tatsu-single-image-inner {
+	width: 100px !important;
+}
+
+#sass-intro-column {
+	margin-top: -22%;
+}
+
+#doctors .tatsu-single-image-inner {
+	box-shadow: 2px 15px 25px 0px rgba(0,0,0,0.05) !important;
+}
+
+#seo-offset-row {
+	margin-top: -200px;
+}
+
+.exp-icon-card-type-image .exp-icon-card-icon {
+	border-radius: 0;
+}
+
+.exp-icon-card-type-image.exp-icon-medium .exp-icon-card-icon,
+.exp-icon-card-type-image.exp-icon-small .exp-icon-card-icon {
+	flex-shrink: 0;
+}
+
+.exp-icon-card-icon {
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+#charity-intro {
+	overflow: hidden;
+}
+
+.exp-interactive-box-back {
+	min-height: initial;
+}
+.exp-form > * {
+	margin-bottom: 20px
+}
+.exp-form label {
+	margin-bottom: 5px
+}";}

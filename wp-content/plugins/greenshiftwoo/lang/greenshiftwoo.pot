@@ -1,0 +1,749 @@
+# Copyright (C) 2022 Gambit Technologies, Inc
+# This file is distributed under the same license as the Stackable - Gutenberg Blocks plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Greenshift\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stackable-ultimate-gutenberg-blocks\n"
+"POT-Creation-Date: 2024-01-29 04:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html_e;__;_e;esc_attr_e;esc_html__;esc_attr__;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: src\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: libs_beauty\n"
+"X-Poedit-SearchPathExcluded-3: libs\n"
+
+#: blockrender/product-availability/block.php:87
+#: blockrender/product-button/block.php:120
+#: blockrender/product-categories/block.php:75
+#: blockrender/product-discount/block.php:75
+#: blockrender/product-featured-image/block.php:96
+#: blockrender/product-gallery/block.php:104
+#: blockrender/product-price/block.php:76
+#: blockrender/product-quick-view/block.php:83
+#: blockrender/product-quick-view/block.php:164
+#: blockrender/product-rating/block.php:91
+#: blockrender/product-short-description/block.php:63
+#: blockrender/product-sku/block.php:75
+#: blockrender/product-stock-notice/block.php:99
+#: blockrender/product-tabs/block.php:113
+#: blockrender/product-tabs/block.php:119 blockrender/product-tags/block.php:75
+#: blockrender/product-title/block.php:88 greenshiftwoo.php:740
+msgid "Product not found."
+msgstr ""
+
+#: blockrender/product-availability/block.php:88 greenshiftwoo.php:764
+#: includes/comparison.php:726
+msgid "In stock"
+msgstr ""
+
+#: blockrender/product-button/block.php:163
+msgid "Buy Now"
+msgstr ""
+
+#: blockrender/product-categories/block.php:78 greenshiftwoo.php:753
+msgid "Categories not found"
+msgstr ""
+
+#: blockrender/product-gallery/block.php:242
+msgid "Awaiting product image"
+msgstr ""
+
+#: blockrender/product-quick-view/block.php:156
+msgid "Open full product page"
+msgstr ""
+
+#: blockrender/product-tabs/block.php:173
+#: blockrender/product-tabs/block.php:205
+#: blockrender/product-tabs/block.php:271
+#: blockrender/product-tabs/block.php:321 includes/comparison.php:618
+msgid "Description"
+msgstr ""
+
+#: greenshiftwoo.php:203
+#, php-format
+msgid "Please, activate %s plugin to use Woocommerce Addon"
+msgstr ""
+
+#: greenshiftwoo.php:212
+msgid "What's New"
+msgstr ""
+
+#: greenshiftwoo.php:230
+msgid "GreenShift Woocommerce"
+msgstr ""
+
+#: greenshiftwoo.php:372
+msgid "Please, add items to this compare group or choose not empty group"
+msgstr ""
+
+#: greenshiftwoo.php:373
+msgid "Please, add more items to compare"
+msgstr ""
+
+#: greenshiftwoo.php:757
+msgid "Tags not found"
+msgstr ""
+
+#: greenshiftwoo.php:761
+msgid "SKU not found"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:116
+#: inc/templates/woo-group-attributes-public.php:129
+msgid "Dimensions"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:123
+msgid "Weight"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:79 includes/class_gspb_wc_combo.php:69
+msgid "Products was successfully added to your cart."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:79 includes/class_gspb_wc_combo.php:69
+msgid "View Cart"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:80 includes/class_gspb_wc_combo.php:70
+msgid "No Products selected."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:81 includes/class_gspb_wc_combo.php:71
+msgid "Product Variation does not selected."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:82 includes/class_gspb_wc_combo.php:72
+msgid "Sorry, this product is unavailable."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:93
+msgid "Bundle"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:94
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:106
+msgid "Bundle are products which you recommend to be bought along with this product. Only simple products can be added as bundle."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:109
+msgid "Bundle Discount"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:110
+msgid "Enter bundle discount"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:111
+msgid "Enter the discount amount for this bundle."
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:135 parts/product_bundle.php:22
+msgid "Bundles"
+msgstr ""
+
+#: includes/class_gspb_wc_bundle.php:366
+#, php-format
+msgid "With this bundle you are getting %s%% discount"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:130 includes/class_gspb_wc_combo.php:157
+msgid "Combo"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:131 includes/class_gspb_wc_combo.php:158
+msgid "Search for products"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:136 includes/class_gspb_wc_combo.php:162
+msgid "combo are products which you recommend to be bought along with this product. Only simple products can be added as combo."
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:139 includes/class_gspb_wc_combo.php:165
+msgid "Combo Discount"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:140 includes/class_gspb_wc_combo.php:166
+msgid "Enter combo discount"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:141 includes/class_gspb_wc_combo.php:167
+msgid "Enter the discount amount for this combo."
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:142 includes/class_gspb_wc_combo.php:168
+msgid "Remove Combo"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:151
+msgid "Add Combo"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:152
+msgid "Save Combo"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:192 includes/class_gspb_wc_combo.php:216
+msgid "Combos"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:224 parts/product_combo.php:24
+msgid "Combo price:"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:226 parts/product_combo.php:26
+msgid "Combo with:"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:228 parts/product_bundle.php:164
+#: parts/product_combo.php:28
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class_gspb_wc_combo.php:351
+#, php-format
+msgid "With this combo you are getting %s%% discount"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:23
+msgid "Greenshift Bundles"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:50
+msgid "Product Bundles"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:55
+msgid "Enable Bundles Tab"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:57
+msgid "The option enables Bundles tab on Product page"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:62
+msgid "Order of the bundle tab"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:65
+#: includes/class_gspb_wc_settings_combo_tab.php:65
+#: includes/class_gspbwoo_settings_tab.php:130
+#: includes/class_gspbwoo_tools.php:187
+msgid "10"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:68
+msgid "Title of bundle Tab"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_bundle_tab.php:69
+#: includes/class_gspb_wc_settings_combo_tab.php:69
+msgid "Place title here"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:23
+msgid "Greenshift Combos"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:50
+msgid "Product Combos"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:55
+msgid "Enable Combos Tab"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:57
+msgid "The option enables Combos tab on Product page"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:62
+msgid "Order of the combo tab"
+msgstr ""
+
+#: includes/class_gspb_wc_settings_combo_tab.php:68
+msgid "Title of combo Tab"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:23
+msgid "Greenshift Tools"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:66
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:72
+msgid "Hide Description tab"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:73
+msgid "The option disables Description tab on Product page"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:79
+msgid "Enable Gutenberg for Woocommerce Editor"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:80
+msgid "Experimental, use with caution"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:86
+msgid "Disable Woo gallery scripts"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:87
+msgid "ONLY FOR FSE THEMES! Use this if you use Product Gallery block on Single product template"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:93
+msgid "Disable Woo Cart scripts"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:94
+msgid "ONLY FOR AFFILIATE AND CATALOG MODE! This will disable cart scripts on pages"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:100
+msgid "Remove render functions from Hooks"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:101
+msgid "ONLY FOR FSE THEMES! Use this if you build custom FSE templates. This will disable render functions attached to hooks and you can add Hook block in places where you need hooks, which can be required for some plugins"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:112
+#: includes/class_gspbwoo_tools.php:171
+msgid "Name for tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:116
+#: includes/class_gspbwoo_tools.php:174
+msgid "Tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:120
+#: includes/class_gspbwoo_tools.php:177
+msgid "Content for tab #"
+msgstr ""
+
+#: includes/class_gspbwoo_settings_tab.php:127
+#: includes/class_gspbwoo_tools.php:184
+msgid "Order for tab #"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:69
+msgid "Select"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:70
+msgid "Color"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:71 includes/meta.php:78
+#: includes/meta.php:96
+msgid "Image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:72
+msgid "Text tag"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:73
+msgid "Image tag"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:96
+#: includes/class_wc_attribute_swatches.php:115
+msgid "Swatch Color"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:100
+#: includes/class_wc_attribute_swatches.php:119
+#: includes/class_wc_attribute_swatches.php:191
+#: includes/class_wc_attribute_swatches.php:256
+#: includes/class_wc_attribute_swatches.php:324
+#: includes/class_wc_attribute_swatches.php:384
+#: includes/class_wc_attribute_swatches.php:398
+#: includes/class_wc_attribute_swatches.php:414
+msgid "Swatch Tooltip"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:130
+#: includes/class_wc_attribute_swatches.php:206
+msgid "Swatch Image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:134
+#: includes/class_wc_attribute_swatches.php:211
+#: includes/class_wc_attribute_swatches.php:271
+#: includes/class_wc_attribute_swatches.php:343
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:135
+#: includes/class_wc_attribute_swatches.php:212
+#: includes/class_wc_attribute_swatches.php:272
+#: includes/class_wc_attribute_swatches.php:344
+msgid "Remove image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:149
+#: includes/class_wc_attribute_swatches.php:226
+#: includes/class_wc_attribute_swatches.php:286
+#: includes/class_wc_attribute_swatches.php:358
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:151
+#: includes/class_wc_attribute_swatches.php:228
+#: includes/class_wc_attribute_swatches.php:288
+#: includes/class_wc_attribute_swatches.php:360
+msgid "Use image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:187
+#: includes/class_wc_attribute_swatches.php:252
+#: includes/class_wc_attribute_swatches.php:394
+#: includes/class_wc_attribute_swatches.php:410
+msgid "Swatch Text"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:267
+#: includes/class_wc_attribute_swatches.php:338
+msgid "Swatch image"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:509
+#: includes/class_wc_attribute_swatches.php:526
+#: includes/class_wc_attribute_swatches.php:545
+msgid "Swatch"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:589
+msgid "Select terms"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:603
+msgid "Select all"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:604
+msgid "Select none"
+msgstr ""
+
+#: includes/class_wc_attribute_swatches.php:605
+msgid "Add new"
+msgstr ""
+
+#: includes/comparison.php:15
+msgid "Type name of products"
+msgstr ""
+
+#: includes/comparison.php:492
+msgid "Add more items"
+msgstr ""
+
+#: includes/comparison.php:612
+msgid "Show only differences"
+msgstr ""
+
+#: includes/comparison.php:615
+msgid "Overview"
+msgstr ""
+
+#: includes/comparison.php:621
+msgid "Availability"
+msgstr ""
+
+#: includes/comparison.php:624
+msgid "User Rating"
+msgstr ""
+
+#: includes/comparison.php:637 includes/helper-aftertheme.php:87
+msgid "Specification"
+msgstr ""
+
+#: includes/comparison.php:664
+msgid "Featured!"
+msgstr ""
+
+#: includes/comparison.php:677
+msgid "Sale!"
+msgstr ""
+
+#: includes/comparison.php:728
+msgid "Out of stock"
+msgstr ""
+
+#: includes/comparison.php:819
+msgid "No posts for this criteria."
+msgstr ""
+
+#: includes/comparison.php:826
+msgid "No products for comparison"
+msgstr ""
+
+#: includes/comparison.php:948
+msgid "Add to Comparison"
+msgstr ""
+
+#: includes/comparison.php:951
+msgid "No results"
+msgstr ""
+
+#: includes/meta.php:15
+msgid "360 gallery, Video, 3D"
+msgstr ""
+
+#: includes/meta.php:52 includes/meta.php:69 includes/meta.php:269
+#: includes/meta.php:278
+msgid "Delete image"
+msgstr ""
+
+#: includes/meta.php:52 includes/meta.php:69 includes/meta.php:269
+#: includes/meta.php:278
+msgid "Delete"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add Images to 360 Gallery"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add to 360 gallery"
+msgstr ""
+
+#: includes/meta.php:69
+msgid "Add 360 gallery images"
+msgstr ""
+
+#: includes/meta.php:84 includes/meta.php:99
+msgid "Upload Image"
+msgstr ""
+
+#: includes/meta.php:87 includes/meta.php:102
+msgid "Video or 3d link"
+msgstr ""
+
+#: includes/meta.php:89 includes/meta.php:104
+msgid "Upload File"
+msgstr ""
+
+#: includes/meta.php:89 includes/meta.php:104
+msgid "Remove"
+msgstr ""
+
+#: includes/meta.php:109
+msgid "Add File group"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add Images to Variation Gallery"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add to Variation gallery"
+msgstr ""
+
+#: includes/meta.php:278
+msgid "Add Variation gallery images"
+msgstr ""
+
+#: includes/query.php:214
+msgid "Choose category"
+msgstr ""
+
+#: includes/query.php:216
+msgid "All categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:40
+#: includes/woo_group_attributes_class.php:51
+msgid "Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:41
+msgid "Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:42
+#: includes/woo_group_attributes_class.php:43
+msgid "Add New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:44
+msgid "Edit Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:45
+msgid "New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:46
+msgid "View Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:47
+msgid "Search Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:48
+msgid "No Attribute Groups found"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:49
+msgid "No Attribute Groups found in Trash"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:50
+msgid "Parent Attribute Group:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:70
+msgid "Attribute Group Category"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:71
+msgid "Attribute Group Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:76
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:77
+msgid "All Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:78
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:79
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:80
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:81
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:82
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:83
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:134
+#: includes/woo_group_attributes_class.php:191
+msgid "Attributes"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:313
+msgid "Product Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:321
+#: includes/woo_group_attributes_class.php:346
+msgid "Load"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:323
+msgid "Groups Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:348
+msgid "Current Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:355
+msgid "Are you sure you want to navigate away."
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:355
+msgid "Manage Groups"
+msgstr ""
+
+#: parts/product_bundle.php:59
+msgid "This product:"
+msgstr ""
+
+#: parts/product_bundle.php:154
+#, php-format
+msgid "%s for %s item(s)"
+msgstr ""
+
+#: parts/product_bundle.php:170
+#, php-format
+msgid "Save %s%%"
+msgstr ""
+
+#: parts/product_combo.php:22
+msgid "Combo Offer"
+msgstr ""
+
+#: parts/product_combo.php:72
+msgid "Save"
+msgstr ""
+
+#: patterns/query/querywoogrid.php:9
+msgid "Woocommerce query loop template"
+msgstr ""
+
+#: patterns/query/querywoogridajax.php:9
+msgid "Woocommerce ajax grid with inputs"
+msgstr ""
+
+#: patterns/template/search.php:9
+msgid "Product Search Results"
+msgstr ""
+
+#: patterns/template/shop.php:9
+msgid "Product Catalog"
+msgstr ""
+
+#: patterns/template/single.php:9
+msgid "Single product template"
+msgstr ""
+
+#: patterns/template/singlegallery.php:9
+msgid "Single product template with gallery"
+msgstr ""
+
+#: querypatterns.php:15
+msgid "Greenshift Woocommerce"
+msgstr ""
+
+#: querypatterns.php:20
+msgid "Greenshift Woocommerce Loop"
+msgstr ""
+
+#: querypatterns.php:24
+msgid "Greenshift Woocommerce FSE templates"
+msgstr ""

@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – Corporate",
+	"blog_page_title": "Blog - Corporate",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Corporate","35":"Pages - Corporate","36":"Resources - Corporate","37":"Legal - Corporate"}
+}

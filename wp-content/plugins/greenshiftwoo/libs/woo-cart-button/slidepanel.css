@@ -1,0 +1,267 @@
+.gspb-sslide-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    visibility: hidden;
+    transition: visibility 0s 0.6s;
+    z-index: 999999;
+}
+.gspb-sslide-panel.active {
+    visibility: visible;
+    transition: visibility 0s 0s;
+}
+.gspb-sslide-panel:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.3s 0.3s;
+    content: "";
+}
+.gspb-sslide-panel.active:after {
+    background: rgba(0, 0, 0, 0.6);
+    transition: background 0.3s 0s;
+}
+.gspb-sslide-panel .gspb-sslide-panel-wrap {
+    position: fixed;
+    width: 400px;
+    height: 100%;
+    top: 0;
+    background: #ecf0f1;
+    z-index: 1;
+    transition: transform .3s ease-in .3s;
+    right: 0;
+    transform: translate3d(100%, 0, 0);
+}
+.gspb-sslide-panel.active .gspb-sslide-panel-wrap {
+    transform: translate3d(0, 0, 0);
+    transition-delay: 0s;
+}
+
+.gspb-sslide-panel .gspb-sslide-panel-heading {
+    position: fixed;
+    width: 400px;
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 8%);
+    z-index: 2;
+    transition: top 0.3s 0s;
+    top: -50px;
+}
+.gspb-sslide-panel.active .gspb-sslide-panel-heading {
+    top: 0;
+    transition: top 0.3s 0.3s;
+}
+
+.gspb-sslide-panel .gspb-sslide-panel-heading h5 {
+    font-size: 19px;
+    padding: 15px 15px 15px 20px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.gspb-sslide-panel .gspb-sslide-panel-heading .close-panel-svg {
+    float: right;
+    border-radius: 50%;
+    border: 1px solid #000;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.gspb-sslide-panel .gspb-sslide-panel-tabs {
+    height: 100%;
+    overflow: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 0;
+    margin-top: 30px;
+}
+
+.gspb-sslide-panel .gspb-sslide-panel-inner {
+    opacity: 0;
+    backface-visibility: hidden;
+    height: 100%;
+    margin-top: 10px;
+    font-size: 120%;
+}
+
+.gspb-sslide-panel.active .gspb-sslide-panel-inner {
+    opacity: 1;
+    transition: all .4s .3s;
+}
+
+.gspb-sslide-panel .widget_shopping_cart_content {
+    color: #111;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.gspb-sslide-panel .widget_shopping_cart_content ul.product_list_widget {
+    list-style: none outside;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    max-height: 500px;
+}
+
+.gspb-sslide-panel .widget_shopping_cart_content ul.product_list_widget li {
+    margin: 0 0 20px 0;
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.gspb-sslide-panel ul.product_list_widget li,
+.gspb-sslide-panel .woocommerce-mini-cart__total,
+.gspb-sslide-panel .buttons,
+.gspb-sslide-panel .woocommerce .woocommerce-mini-cart__empty-message,
+.gspb-sslide-panel .woocommerce .widget_shopping_cart_content > p {
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+
+.gspb-sslide-panel .woocommerce ul.product_list_widget li a {
+    display: block;
+    font-size: 16px;
+    line-height: 18px;
+    color: #111;
+    margin-bottom: 11px;
+    font-weight: 400;
+    text-decoration: unset;
+}
+
+.gspb-sslide-panel .woocommerce.widget_shopping_cart .cart_list li a.remove {
+    float: right;
+    color: #cc0000;
+    font-size: 22px !important;
+    position: relative;
+}
+
+.gspb-sslide-panel .woocommerce ul.product_list_widget li img {
+    margin-right: 15px;
+    width: 70px;
+    height: 70px;
+    float: left;
+    object-fit: cover;
+}
+
+#gspb-woo-cart-panel .quantity {
+    display: flex;
+    position: relative;
+    margin: 0 auto 0 85px;
+    overflow: hidden;
+    font-size: 18px;
+}
+
+#gspb-woo-cart-panel .quantity span.amount {
+    color: #ff4e0c;
+    font-weight: bold;
+}
+
+.gspb-sslide-panel .woocommerce-mini-cart__total {
+    margin-top: auto;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.gspb-sslide-panel .woocommerce-mini-cart__total span.woocommerce-Price-amount.amount {
+    color: #ff4e0c;
+    margin-left: auto;
+}
+
+ul.product_list_widget li span.amount
+
+.gspb-sslide-panel .woocommerce-mini-cart__buttons {
+    margin-bottom: 20px;
+}
+
+.gspb-sslide-panel .woocommerce-mini-cart__buttons a.button {
+    margin: 0 0 15px 0;
+    display: block;
+    padding: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #111;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #f6f6f6;
+    border: none;
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 1px 2px rgb(0 0 0 / 8%);
+    transition: all 0.4s ease 0s;
+    position: relative;
+    text-decoration: none;
+}
+.gspb-sslide-panel .woocommerce-mini-cart__buttons a.button:first-child {
+    margin-bottom: 15px
+}
+
+.gspb-sslide-panel .woocommerce-mini-cart__buttons a.button.checkout {
+    background-color: #7635f3;
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    border: none !important;
+    text-decoration: none !important;
+    outline: 0;
+    border-radius: 4px !important;
+}
+.gspb-sslide-panel .widget_shopping_cart_content ul.product_list_widget li:last-child {
+    border: none;
+}
+
+.gspb-sslide-panel .woocommerce ul.product_list_widget li dl {
+    margin: 0 0 12px 0;
+    font-size: 12px;
+    line-height: 12px;
+    padding-left: 1em;
+    border-left: 2px solid rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+.gspb-sslide-panel .woocommerce ul.product_list_widget li dl dt {
+    margin: 0;
+    padding: 0;
+    clear: unset;
+    font-weight: 400;
+    float: left;
+    margin-right: 0.25em;
+}
+.gspb-sslide-panel .woocommerce ul.product_list_widget li dl dd {
+    margin-bottom: 0.5em;
+    padding: 0;
+    float: unset;
+}
+.gspb-sslide-panel .woocommerce ul.product_list_widget li dl dd p {
+    line-height: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top:0 !important
+}
+@media only screen and (max-width: 1170px){
+    .gspb-sslide-panel .gspb-sslide-panel-wrap, .gspb-sslide-panel .gspb-sslide-panel-heading{width: 340px;}
+}
+
+@media screen and (max-width: 1024px) {
+    .gspb-woo-cart-button .gspb_woocartmenu-amount{
+        display: none;
+    }
+}

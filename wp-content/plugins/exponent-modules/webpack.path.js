@@ -1,0 +1,1 @@
+module.exports = '/var/www/html/madras/wp-content/plugins/exponent-modules/admin/js';

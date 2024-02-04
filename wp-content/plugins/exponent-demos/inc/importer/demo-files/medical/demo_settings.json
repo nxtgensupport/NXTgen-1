@@ -1,0 +1,10 @@
+{
+	"home_page_title": "Home - Medical",
+	"blog_page_title": "Blog - Medical",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Medical","14":"Footer Links - Medical","15":"Departments - Medical","16":"News and Media - Medical","17":"Legal - Medical"}
+}

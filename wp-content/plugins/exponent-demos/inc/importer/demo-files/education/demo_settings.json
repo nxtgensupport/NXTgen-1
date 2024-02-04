@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Home with Slider – Startup",
+	"blog_page_title": "Blog - Startup",
+	"sliders": {
+		"revslider": "home-startup.zip"
+	},
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu":"Tatsu",
+		"revslider": "Slider Revolution"
+	},
+	"nav_menus":{"13":"Main Menu - Startup","48":"Footer Links - Startup","49":"Legal - Startup"}
+}

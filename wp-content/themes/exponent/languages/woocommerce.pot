@@ -1,0 +1,419 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Exponent - Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-29 15:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:31
+msgid "Add, edit or save details of your account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "Alas, that's unfortunate"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:682
+#: woocommerce/exponent-woo-functions.php:683 woocommerce/cart/cart.php:146
+#: woocommerce/cart/cart.php:147 woocommerce/global/form-coupon.php:39
+#: woocommerce/global/form-coupon.php:39
+#: woocommerce/checkout/form-coupon.php:38
+#: woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1674
+msgid "Average"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1052
+#: woocommerce/exponent-woo-functions.php:1145
+#: woocommerce/exponent-woo-functions.php:1205
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1665
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1413
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:50
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:748
+#: woocommerce/global/form-coupon.php:26
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:754
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:681 woocommerce/cart/cart.php:145
+#: woocommerce/global/form-coupon.php:36
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:89
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1684
+#: woocommerce/exponent-woo-functions.php:1690
+msgid "Description"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1578
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1682
+#: woocommerce/exponent-woo-functions.php:1688
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:41
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1673
+msgid "Good"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:748
+#: woocommerce/global/form-coupon.php:26
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Have a coupon?"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:30
+#, php-format
+msgid "Hello %1$s (not %1$s? <a class = \"%2$s\" href=\"%3$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/global/form-coupon.php:32
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:830
+#: woocommerce/global/form-login.php:56 woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:560
+#: woocommerce/myaccount/form-login.php:56
+#: woocommerce/myaccount/form-login.php:56
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:819
+#: woocommerce/global/form-login.php:45 woocommerce/global/form-login.php:45
+#: woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:563
+#: woocommerce/exponent-woo-functions.php:824
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:28
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "My account"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1408
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1681
+#: woocommerce/exponent-woo-functions.php:1687
+msgid "Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1675
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/order/order-details.php:91
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:40
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Order Failed"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Order Successful"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:814
+#: woocommerce/global/form-login.php:40
+msgid "Password*"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:94
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1672
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:77
+#: woocommerce/order/order-details.php:47
+msgid "Product"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:103
+#: woocommerce/order/order-details.php:49
+#: woocommerce/global/quantity-input.php:34
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1671
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/myaccount/form-login.php:102
+#: woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:558
+#: woocommerce/myaccount/form-login.php:54
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:754
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:934
+msgid "Search Products"
+msgstr ""
+
+#: woocommerce/order/order-details.php:48
+msgid "Single Price"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1406
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1667
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1665
+msgid "Submit Your Review"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1414
+msgid "Tag: "
+msgid_plural "Tags: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/thankyou.php:69 woocommerce/checkout/thankyou.php:118
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:121
+#: woocommerce/order/order-details.php:50
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:103
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:694 woocommerce/cart/cart.php:158
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:695 woocommerce/cart/cart.php:159
+msgid "Update Your Cart"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:811
+#: woocommerce/global/form-login.php:37
+msgid "Username or email*"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1642
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1676
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1297
+msgid "View review"
+msgid_plural "View reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/exponent-woo-functions.php:1568
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:26
+msgid "Your Information"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:76
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1670
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/exponent-woo-functions.php:1634
+msgid "Your review is awaiting approval"
+msgstr ""

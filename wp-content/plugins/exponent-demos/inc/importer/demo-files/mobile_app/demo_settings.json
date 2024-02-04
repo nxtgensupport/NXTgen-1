@@ -1,0 +1,9 @@
+{
+	"home_page_title": "App Demo – Mobile App",
+	"blog_page_title": "Blog - Mobile App",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"24":"Footer - Mobile App","25":"Main Menu - Mobile App","27":"Legal - Mobile App"}
+}

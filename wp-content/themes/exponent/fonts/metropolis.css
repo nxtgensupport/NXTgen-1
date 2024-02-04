@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('custom-fonts/metropolis/Metropolis-Bold.otf') format("otf");
+    src: url('custom-fonts/metropolis/Metropolis-Bold.eot?#iefix') format('embedded-opentype'),
+         url('custom-fonts/metropolis/Metropolis-Bold.woff') format('woff'),
+         url('custom-fonts/metropolis/Metropolis-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('custom-fonts/metropolis/Metropolis-SemiBold.otf') format("otf");
+    src: url('custom-fonts/metropolis/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('custom-fonts/metropolis/Metropolis-SemiBold.woff') format('woff'),
+         url('custom-fonts/metropolis/Metropolis-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('custom-fonts/metropolis/Metropolis-Medium.otf') format("otf");
+    src: url('custom-fonts/metropolis/Metropolis-Medium.eot') format('embedded-opentype'),
+         url('custom-fonts/metropolis/Metropolis-Medium.woff') format('woff'),
+         url('custom-fonts/metropolis/Metropolis-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('custom-fonts/metropolis/Metropolis-Regular.otf') format("otf");
+    src: url('custom-fonts/metropolis/Metropolis-Regular.eot') format('embedded-opentype'),
+         url('custom-fonts/metropolis/Metropolis-Regular.woff') format('woff'),
+         url('custom-fonts/metropolis/Metropolis-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('custom-fonts/metropolis/Metropolis-Light.otf') format("otf");
+    src: url('custom-fonts/metropolis/Metropolis-Light.eot?#iefix') format('embedded-opentype'),
+         url('custom-fonts/metropolis/Metropolis-Light.woff') format('woff'),
+         url('custom-fonts/metropolis/Metropolis-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}

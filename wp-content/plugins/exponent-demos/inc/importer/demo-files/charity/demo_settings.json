@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home - Charity",
+	"blog_page_title": "Blog - Charity",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"tatsu": "Tatsu"
+	},
+	"nav_menus":{"13":"Main Menu - Charity","14":"Footer Links - Charity","15":"Terms and Conditions - Charity"}
+}

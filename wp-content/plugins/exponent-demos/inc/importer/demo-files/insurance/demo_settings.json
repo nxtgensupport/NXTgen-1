@@ -1,0 +1,10 @@
+{
+	"home_page_title": "Home Insurance",
+	"blog_page_title": "Blog Insurance",
+	"content_plugins": {
+		"WPForms": "WP Forms",
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"24":"Footer Links - Insurance","25":"Main Menu - Insurance","26":"Support Links - Insurance","27":"Types - Insurance"}
+}

@@ -1,0 +1,170 @@
+2024-02-03T19:00:25+00:00 CRITICAL Uncaught Error: Class "WPUF_Post_Form_Template" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php:6
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(574): require_once()
+#1 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->post_form_templates()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/wpuf-functions.php(2017): apply_filters()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Post/Templates/Form_Template.php(98): wpuf_get_post_form_templates()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Post\Templates\Form_Template->render_post_form_templates()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin-footer.php(78): do_action()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(297): require_once('/home/u14521831...')
+#10 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php on line 6
+
+2024-02-03T19:00:26+00:00 CRITICAL Uncaught Error: Class "WPUF_Post_Form_Template" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php:6
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(574): require_once()
+#1 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->post_form_templates()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/wpuf-functions.php(2017): apply_filters()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Post/Templates/Form_Template.php(98): wpuf_get_post_form_templates()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Post\Templates\Form_Template->render_post_form_templates()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin-footer.php(78): do_action()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(297): require_once('/home/u14521831...')
+#10 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php on line 6
+
+2024-02-03T19:01:12+00:00 CRITICAL Uncaught Error: Class "WPUF_Form" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php:48
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(433): WPUF_Frontend_Form_Profile->shortcode_handler()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(273): preg_replace_callback()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): do_shortcode()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/builders/indexable-link-builder.php(117): apply_filters()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-post-watcher.php(207): Yoast\WP\SEO\Builders\Indexable_Link_Builder->build()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(326): Yoast\WP\SEO\Integrations\Watchers\Indexable_Post_Watcher->build_indexable()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/post.php(4771): do_action()
+#11 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/admin/installer.php(168): wp_insert_post()
+#12 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/admin/pro-page-installer.php(11): WPUF_Admin_Installer->create_page()
+#13 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(508): wpuf_pro_page_installer->install_pro_version_pages()
+#14 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->install_pro_pages()
+#15 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#16 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(118): apply_filters()
+#17 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(67): WeDevs\Wpuf\Admin\Admin_Installer->init_pages()
+#18 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Admin_Installer->handle_request()
+#19 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#20 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#21 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(175): do_action()
+#22 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php on line 48
+
+2024-02-03T19:01:41+00:00 CRITICAL Uncaught Error: Class "WPUF_Form" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php:48
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(433): WPUF_Frontend_Form_Profile->shortcode_handler()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(273): preg_replace_callback()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): do_shortcode()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/builders/indexable-link-builder.php(117): apply_filters()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-post-watcher.php(207): Yoast\WP\SEO\Builders\Indexable_Link_Builder->build()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(326): Yoast\WP\SEO\Integrations\Watchers\Indexable_Post_Watcher->build_indexable()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/post.php(4771): do_action()
+#11 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/admin/installer.php(168): wp_insert_post()
+#12 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/admin/pro-page-installer.php(11): WPUF_Admin_Installer->create_page()
+#13 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(508): wpuf_pro_page_installer->install_pro_version_pages()
+#14 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->install_pro_pages()
+#15 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#16 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(118): apply_filters()
+#17 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(67): WeDevs\Wpuf\Admin\Admin_Installer->init_pages()
+#18 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Admin_Installer->handle_request()
+#19 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#20 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#21 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(175): do_action()
+#22 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php on line 48
+
+2024-02-03T19:02:53+00:00 CRITICAL Uncaught Error: Class "WPUF_Form" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php:48
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(433): WPUF_Frontend_Form_Profile->shortcode_handler()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(273): preg_replace_callback()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): do_shortcode()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/builders/indexable-link-builder.php(117): apply_filters()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-post-watcher.php(207): Yoast\WP\SEO\Builders\Indexable_Link_Builder->build()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(326): Yoast\WP\SEO\Integrations\Watchers\Indexable_Post_Watcher->build_indexable()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/post.php(4771): do_action()
+#11 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/admin/installer.php(168): wp_insert_post()
+#12 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/admin/pro-page-installer.php(11): WPUF_Admin_Installer->create_page()
+#13 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(508): wpuf_pro_page_installer->install_pro_version_pages()
+#14 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->install_pro_pages()
+#15 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#16 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(118): apply_filters()
+#17 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Admin_Installer.php(67): WeDevs\Wpuf\Admin\Admin_Installer->init_pages()
+#18 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Admin_Installer->handle_request()
+#19 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#20 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#21 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(175): do_action()
+#22 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php on line 48
+
+2024-02-03T19:03:06+00:00 CRITICAL Uncaught Error: Class "WPUF_Form" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php:48
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(433): WPUF_Frontend_Form_Profile->shortcode_handler()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/shortcodes.php(273): preg_replace_callback()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): do_shortcode()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/post-template.php(256): apply_filters()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-content/themes/exponent/page.php(16): the_content()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/template-loader.php(106): include('/home/u14521831...')
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-blog-header.php(19): require_once('/home/u14521831...')
+#9 /home/u145218313/domains/nxtgen.support/public_html/index.php(17): require('/home/u14521831...')
+#10 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/frontend-form-profile.php on line 48
+
+2024-02-03T19:16:09+00:00 CRITICAL Uncaught Error: Class "WPUF_Post_Form_Template" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php:6
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(574): require_once()
+#1 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->post_form_templates()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/wpuf-functions.php(2017): apply_filters()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Post/Templates/Form_Template.php(98): wpuf_get_post_form_templates()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Post\Templates\Form_Template->render_post_form_templates()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin-footer.php(78): do_action()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(297): require_once('/home/u14521831...')
+#10 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php on line 6
+
+2024-02-03T19:16:21+00:00 CRITICAL Uncaught Error: Class "WPUF_Post_Form_Template" not found in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php:6
+Stack trace:
+#0 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/wpuf-pro.php(574): require_once()
+#1 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WP_User_Frontend_Pro->post_form_templates()
+#2 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#3 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/wpuf-functions.php(2017): apply_filters()
+#4 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Post/Templates/Form_Template.php(211): wpuf_get_post_form_templates()
+#5 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Post\Templates\Form_Template->post_form_settings()
+#6 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/admin/html/form-settings-post.php(210): do_action()
+#9 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Admin_Form.php(201): include_once('/home/u14521831...')
+#10 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Admin_Form->add_settings_tab_contents()
+#11 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/admin/form-builder/views/form-builder.php(104): do_action()
+#14 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Forms/Admin_Form_Builder.php(275): include('/home/u14521831...')
+#15 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Forms\Admin_Form_Builder->include_form_builder()
+#16 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#17 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#18 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/views/post-form.php(2): do_action()
+#19 /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend/includes/Admin/Menu.php(104): require_once('/home/u14521831...')
+#20 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(324): WeDevs\Wpuf\Admin\Menu->wpuf_post_forms_page()
+#21 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#22 /home/u145218313/domains/nxtgen.support/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#23 /home/u145218313/domains/nxtgen.support/public_html/wp-admin/admin.php(259): do_action()
+#24 {main}
+  thrown in /home/u145218313/domains/nxtgen.support/public_html/wp-content/plugins/wp-user-frontend-pro/includes/post-form-templates/woocommerce.php on line 6
+

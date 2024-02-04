@@ -1,0 +1,9 @@
+{
+	"apiVersion": 1,
+	"name": "greenshift-blocks/product-sku",
+    "title": "Product SKU",
+    "description": "Product SKU",
+	"category":"greenShiftWoo",
+	"textdomain": "greenshiftwoo",
+	"editorStyle": "greenShiftWoo-block-css"
+}

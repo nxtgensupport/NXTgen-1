@@ -1,0 +1,62 @@
+a:4:{s:8:"template";s:8:"exponent";s:4:"mods";a:62:{s:18:"custom_css_post_id";i:3093;i:0;b:0;s:18:"nav_menu_locations";a:1:{s:8:"main_nav";i:19;}s:18:"blog_archive_style";s:6:"style2";s:22:"author_hero_background";a:6:{s:16:"background-color";s:7:"#000000";s:16:"background-image";s:107:"https://exponentwptheme.com/blog-demo/wp-content/uploads/sites/21/2018/12/casey-horner-1216731-unsplash.jpg";s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:10:"center top";s:15:"background-size";s:5:"cover";s:21:"background-attachment";s:6:"scroll";}s:7:"body_bg";a:6:{s:16:"background-color";s:22:"rgba(255, 255, 255, 1)";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:15:"entry_header_bg";a:6:{s:16:"background-color";s:7:"#f5f6fa";s:16:"background-image";s:0:"";s:17:"background-repeat";s:0:"";s:19:"background-position";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";}s:14:"custom_sidebar";a:0:{}s:17:"blog_loop_sidebar";b:1;s:19:"blog_archive_shadow";s:4:"none";s:22:"blog_loop_metro_3_cols";s:1:"3";s:17:"single_nav_sticky";b:1;s:13:"related_posts";b:1;s:13:"enable_header";b:0;s:13:"enable_footer";b:0;s:21:"enable_footer_widgets";b:0;s:17:"blog_aspect_ratio";d:1;s:20:"author_custom_header";b:1;s:14:"featured_posts";b:0;s:19:"featured_posts_type";s:4:"grid";s:18:"single_title_style";s:4:"wide";s:22:"single_title_alignment";s:4:"left";s:29:"blog_single_meta_author_image";b:1;s:26:"blog_single_meta_date_icon";b:1;s:23:"blog_single_labeled_cat";b:0;s:30:"blog_related_meta_author_image";b:1;s:27:"blog_related_meta_date_icon";b:1;s:24:"blog_related_labeled_cat";b:0;s:18:"related_posts_cols";s:1:"3";s:26:"featured_posts_slide_width";s:2:"60";s:28:"blog_post_details_custom_pad";b:0;s:26:"blog_archive_border_radius";s:1:"0";s:24:"blog_single_primary_meta";a:1:{i:0;s:10:"categories";}s:26:"blog_single_secondary_meta";a:2:{i:0;s:6:"author";i:1;s:4:"date";}s:11:"blog_gutter";s:2:"40";s:25:"blog_archive_thumb_shadow";s:5:"light";s:30:"blog_archive_auto_height_thumb";b:0;s:21:"featured_posts_gutter";s:2:"20";s:24:"blog_loop_sidebar_sticky";b:1;s:22:"blog_loop_primary_meta";a:1:{i:0;s:10:"categories";}s:24:"blog_loop_secondary_meta";a:2:{i:0;s:6:"author";i:1;s:4:"date";}s:10:"form_style";s:7:"rounded";s:23:"blog_post_details_color";s:0:"";s:23:"blog_loop_normal_3_cols";s:1:"2";s:19:"author_hero_overlay";b:1;s:24:"blog_loop_meta_date_icon";b:1;s:20:"related_posts_gutter";s:2:"20";s:19:"blog_single_sidebar";b:0;s:25:"blog_related_primary_meta";a:0:{}s:27:"blog_related_secondary_meta";a:1:{i:0;s:4:"date";}s:26:"blog_related_tertiary_meta";a:0:{}s:26:"blog_single_sidebar_sticky";b:1;s:24:"related_posts_full_width";b:0;s:9:"lazy_load";b:0;s:25:"author_hero_overlay_color";s:16:"rgba(0,0,0,0.78)";s:13:"minify_assets";b:0;s:11:"cdn_address";s:0:"";s:23:"posts_with_entry_header";a:1:{i:0;s:4:"post";}s:11:"page_loader";s:4:"none";s:16:"entry_header_pad";s:2:"80";s:18:"entry_header_color";s:7:"#313233";s:14:"footer_content";s:54:"Copyright © 2019 Brand Exponents. All Rights Reserved";}s:7:"options";a:7:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}s:19:"tatsu_google_map_id";s:0:"";s:17:"tatsu_lazyload_bg";s:1:"1";s:23:"tatsu_lazyload_bg_color";s:7:"#323232";s:19:"tatsu_active_header";s:20:"exponent-blog-header";s:19:"tatsu_active_footer";s:20:"exponent-blog-footer";}s:6:"wp_css";s:1019:".tatsu-menu .tatsu-highlight > a {
+    font-weight: bold !important;
+    margin-bottom: 5px !important;
+}
+
+.exp-post-categories-labeled .exp-term{
+	line-height: normal;
+	padding: 1px 10px;
+}
+
+.exp-post-link-url,
+.exp-post-quote-text, 
+.exp-post-quote-author{
+	font-family: Proxima Nova;
+}
+
+/* body{
+	overflow-x:auto !important;
+	overflow-y:auto !important;
+}
+html{
+	overflow: overlay !important;
+} */
+
+.exp-posts-loop-style4 article:first-child{
+    padding-top:0px;
+}
+
+/* #tatsu-header-wrap:not(.transparent) .tatsu-header:last-child{
+	    box-shadow: 0px 6px 11px 3px #f9f9f9
+} */
+
+#gallery-1 .gallery-item{
+	margin-right: 10px;
+	width: 29.7% !important;
+}
+
+.tatsu-normal-icon.align-none .tatsu-icon{
+	margin-right: 0px;
+}
+
+
+.exp-featured-posts-inner .exp-post-details{
+	align-items: flex-end;
+}
+
+.tagcloud .tag-cloud-link:last-child{
+	display: none;
+}
+
+
+/* .flickity-page-dots{
+	bottom: -35px;
+}
+ */
+.exp-form-rounded input{
+	background: #ffffff;
+}
+
+.custom-full-screen-col .tatsu-column-pad-wrap {
+	height: 100vh;
+}";}

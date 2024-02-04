@@ -1,0 +1,67 @@
+<wpml-config>
+	<gutenberg-blocks>
+		<gutenberg-block
+			type="greenshift-blocks/product-price" translate="1" label="Woo - Product-price">
+			<key name="label" />
+			<key name="postfix" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-categories" translate="1" label="Woo - Product-categories">
+			<key name="label" />
+			<key name="postfix" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-tags" translate="1" label="Woo - Product-tags">
+			<key name="label" />
+			<key name="postfix" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-sku" translate="1" label="Woo - Product-Sku">
+			<key name="label" />
+			<key name="postfix" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-button" translate="1" label="Woo - Product-Button">
+			<key name="simpleLabel" />
+			<key name="affiliateLabel" />
+			<key name="variableLabel" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-discount" translate="1" label="Woo - Product-discount">
+			<key name="label" />
+			<key name="postfix" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-rating" translate="1" label="Woo - Product-rating">
+			<key name="ratingLabel" />
+			<key name="ratingsLabel" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-comparison" translate="1" label="Woo - Product-comparison">
+			<key name="comparisonadd" />
+			<key name="comparisonadded" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-breadcrumbs" translate="1" label="Woo - Product-breadcrumbs">
+			<key name="delimiter" />
+			<key name="home" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-stocknotice" translate="1" label="Stock Notice">
+			<key name="title" />
+			<key name="label" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/product-shipping-bar" translate="1" label="Shipping bar">
+			<key name="title" />
+			<key name="titleSuccess" />
+		</gutenberg-block>
+		<gutenberg-block
+			type="greenshift-blocks/woo-cart-button" translate="1" label="Woo - Cart Button with Sliding panel">
+			<key name="title" />
+			<key name="titleSuccess" />
+			<key name="cartHeading" />
+		</gutenberg-block>
+
+	</gutenberg-blocks>
+</wpml-config>

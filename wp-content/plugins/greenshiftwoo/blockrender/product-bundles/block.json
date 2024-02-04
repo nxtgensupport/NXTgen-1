@@ -1,0 +1,9 @@
+{
+	"apiVersion": 3,
+	"name": "greenshift-blocks/product-bundles",
+	"category": "greenShiftWoo",
+	"textdomain": "greenshiftwoo",
+	"supports": {
+		"align": true
+	}
+}

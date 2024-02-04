@@ -1,0 +1,9 @@
+{
+	"home_page_title": "Home – SEO",
+	"blog_page_title": "Blog - SEO",
+	"content_plugins": {
+		"WPForms":"WP forms",
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"14":"Footer Links - SEO","37":"Main Menu - SEO"}
+}

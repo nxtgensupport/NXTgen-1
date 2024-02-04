@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Conference",
+	"blog_page_title": "",
+	"content_plugins": {
+		"tatsu" : "Tatsu"
+	},
+	"nav_menus":{"2":"Conference - Main menu","3":"Conference - Footer Menu"}
+}

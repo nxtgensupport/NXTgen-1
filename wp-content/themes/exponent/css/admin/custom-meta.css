@@ -1,0 +1,37 @@
+
+/**
+ * Image Picker Used in category meta area
+ */
+.imagepicker-preview {
+    position: relative;
+    cursor: pointer;
+}
+.imagepicker-preview img {
+    max-width:  100%;
+}
+.imagepicker-preview-overlay {
+    position : absolute;
+    top : 0;
+    left : 0;
+    right : 0;
+    bottom : 0;
+    display: none;
+    opacity: 0;
+    background: rgba(0,0,0,0.5);
+}
+.imagepicker-preview:hover .imagepicker-preview-overlay{
+    opacity: 1;
+}
+.media-close-button {
+    position: absolute;
+    top : 3px;
+    right: 3px;
+    color : #fff;
+}
+.active {
+    width : 150px;
+    height : 150px;
+}
+.active .imagepicker-preview-overlay {
+    display: block;
+}
